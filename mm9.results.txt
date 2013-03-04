@@ -1,0 +1,234 @@
+GOBiologicalProcess.tsv
+
+Deleted entries:
+cell-cell signaling	4.841847e-02
+regulation of phosphate metabolic process	4.740459e-02
+embryonic hemopoiesis	4.681973e-02
+post-embryonic development	4.610177e-02
+nucleus organization	4.590465e-02
+regulation of pigmentation during development	4.558780e-02
+regulation of phosphorylation	4.541784e-02
+leukocyte adhesion	4.526419e-02
+negative regulation of phosphate metabolic process	4.519871e-02
+hemopoietic progenitor cell differentiation	4.467515e-02
+
+Inserted entries:
+regulation of astrocyte differentiation	2.269712e-02
+decidualization	2.118188e-02
+peripheral nervous system neuron differentiation	1.889694e-02
+negative regulation of astrocyte differentiation	1.855786e-02
+membrane budding	1.554620e-02
+midbrain-hindbrain boundary development	1.537366e-02
+peripheral nervous system neuron development	1.459972e-02
+clathrin coat assembly	1.413830e-02
+natural killer cell differentiation	1.389169e-02
+pathway-restricted SMAD protein phosphorylation	1.337962e-02
+
+Entries with increased p-value:
+developmental process	2.009637e-33
+anatomical structure development	3.535816e-31
+multicellular organismal development	2.146602e-28
+organ development	8.088410e-25
+positive regulation of biological process	1.376516e-20
+anatomical structure morphogenesis	4.396550e-20
+positive regulation of cellular process	9.073350e-20
+cell differentiation	5.879784e-19
+regionalization	7.097961e-18
+skeletal system development	2.506749e-17
+
+Entries with decreased p-value:
+regulation of gene expression	7.241414e-31
+regulation of metabolic process	1.187503e-30
+regulation of RNA metabolic process	4.032613e-30
+regulation of cellular metabolic process	2.603880e-29
+biological regulation	2.767148e-29
+regulation of cellular process	4.333387e-29
+regulation of biological process	5.215792e-29
+regulation of macromolecule metabolic process	6.694680e-29
+cellular biopolymer metabolic process	1.443687e-27
+regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	1.724203e-27
+
+GOCellularComponent.tsv
+
+Deleted entries:
+cell projection part	4.211331e-02
+neuron projection	4.135906e-02
+microvillus membrane	2.824781e-02
+neuron projection membrane	2.474277e-02
+axolemma	2.367661e-02
+apical junction complex	1.910617e-02
+nuclear inner membrane	1.849706e-02
+apicolateral plasma membrane	1.703126e-02
+cell-cell junction	1.564218e-02
+T-tubule	1.135645e-02
+
+Inserted entries:
+female germ cell nucleus	1.873226e-02
+F-actin capping protein complex	1.036673e-02
+zymogen granule	1.010289e-02
+ESC/E(Z) complex	8.538766e-03
+intrinsic to mitochondrial inner membrane	7.563504e-03
+zymogen granule membrane	6.950109e-03
+germinal vesicle	6.760541e-03
+nuclear periphery	2.074365e-03
+chromatin remodeling complex	1.429325e-03
+cell leading edge	1.207435e-03
+
+Entries with increased p-value:
+cytosolic small ribosomal subunit	3.021230e-04
+
+Entries with decreased p-value:
+intracellular	3.074019e-38
+organelle	9.597293e-31
+intracellular organelle	2.440447e-30
+intracellular part	4.646728e-30
+nucleus	2.070297e-25
+membrane-bounded organelle	3.150497e-25
+intracellular membrane-bounded organelle	5.855580e-25
+organelle part	1.940083e-13
+membrane-enclosed lumen	3.080095e-10
+intracellular organelle lumen	3.270518e-09
+
+GOMolecularFunction.tsv
+
+Deleted entries:
+protein kinase activity	4.130913e-02
+carboxypeptidase activity	3.697900e-02
+protein serine/threonine kinase activity	3.485764e-02
+polysaccharide binding	3.363823e-02
+metallocarboxypeptidase activity	3.315855e-02
+metalloexopeptidase activity	3.106742e-02
+phosphotransferase activity, alcohol group as acceptor	2.992552e-02
+pattern binding	2.731603e-02
+glycosaminoglycan binding	2.419589e-02
+fructose 1,6-bisphosphate 1-phosphatase activity	2.251945e-02
+
+Inserted entries:
+clathrin binding	2.193617e-02
+phosphoinositide 3-kinase regulator activity	2.179775e-02
+sodium channel regulator activity	1.316043e-02
+sodium channel inhibitor activity	1.239612e-02
+proline-rich region binding	1.212306e-02
+phosphotransferase activity, carboxyl group as acceptor	1.157348e-02
+thyroid hormone receptor activity	1.030159e-02
+phosphoserine binding	9.902523e-03
+phosphothreonine binding	9.902523e-03
+phosphoglycerate kinase activity	8.329920e-03
+
+Entries with increased p-value:
+transcription repressor activity	2.312021e-07
+GTPase inhibitor activity	4.496760e-04
+extracellular matrix constituent conferring elasticity	2.306882e-03
+
+Entries with decreased p-value:
+DNA binding	1.482624e-31
+nucleic acid binding	6.597987e-30
+transcription regulator activity	2.666787e-28
+binding	1.862685e-25
+transcription factor activity	7.098639e-18
+protein binding	6.894269e-13
+sequence-specific DNA binding	7.310943e-07
+zinc ion binding	1.249994e-06
+transition metal ion binding	1.982384e-05
+cation binding	1.532941e-03
+
+MGIExpressionDetected.tsv
+
+Deleted entries:
+TS20_diencephalon;floor plate	4.959480e-02
+TS17_central nervous system;ganglion;cranial	4.950865e-02
+TS25_alimentary system;oral region	4.905987e-02
+TS23_frontal bone primordium	4.874022e-02
+TS24_tooth#;epithelium#	4.860763e-02
+TS15_hindlimb ridge;ectoderm	4.822866e-02
+TS21_tongue;epithelium	4.810104e-02
+TS28_olfactory tubercle	4.765332e-02
+TS25_intestine#	4.715778e-02
+TS26_lower jaw;tooth	4.680754e-02
+
+Inserted entries:
+TS19_left lung rudiment;lobar bronchus	3.359149e-02
+TS22_main bronchus;epithelium	2.404944e-02
+TS28_vomeronasal organ	2.214779e-02
+TS19_axial skeleton;cervical region;vertebral cartilage condensation;C4	2.113436e-02
+TS19_axial skeleton;cervical region;vertebral cartilage condensation;C2	2.113436e-02
+TS19_axial skeleton;cervical region;vertebral cartilage condensation;C3	2.113436e-02
+TS19_axial skeleton;cervical region;vertebral cartilage condensation;C5	2.113436e-02
+TS23_tarsus	1.937307e-02
+TS20_axial skeleton;cervical region;vertebral cartilage condensation;C2	1.928835e-02
+TS13_embryo;ectoderm;neural ectoderm;neural fold#;neural crest#	1.886869e-02
+
+Entries with increased p-value:
+TS17_embryo	3.064300e-40
+Theiler_stage_17	6.264693e-40
+TS17_organ system	1.751575e-38
+TS22_embryo	1.040353e-37
+Theiler_stage_22	1.512858e-37
+TS21_organ system	2.193321e-36
+TS17_central nervous system	2.817261e-36
+TS17_nervous system	3.097234e-36
+TS20_embryo	1.746043e-30
+TS22_visceral organ	2.523530e-30
+
+Entries with decreased p-value:
+TS21_embryo	2.095764e-36
+Theiler_stage_21	1.104791e-35
+TS28_visceral organ	3.926744e-34
+TS22_organ system	1.064459e-31
+TS28_respiratory system	2.674080e-26
+Theiler_stage_28	8.098177e-26
+TS28_lung	1.517310e-25
+Theiler_stage_5	1.588249e-25
+TS21_telencephalon	1.924153e-25
+TS28_reproductive system	2.407146e-25
+
+MGIPhenotype.tsv
+
+Deleted entries:
+abnormal circulating interleukin-5 level	4.977700e-02
+abnormal suckling behavior	4.901766e-02
+absent testes	4.854673e-02
+joint calcification	4.844762e-02
+abnormal lambdoidal suture morphology	4.837240e-02
+circling	4.815486e-02
+increased circulating potassium level	4.784723e-02
+buphthalmos	4.768464e-02
+thymus cortex hypoplasia	4.587005e-02
+genomic imprinting	4.576868e-02
+
+Inserted entries:
+telencephalon hypoplasia	2.210997e-02
+absent barrels in primary somatosensory cortex	2.028837e-02
+abnormal pituitary infundibular stalk	1.820735e-02
+absent lungs	1.777025e-02
+absent oviduct	1.774600e-02
+abnormal sublingual duct morphology	1.766842e-02
+absent auchene hairs	1.651685e-02
+neuron hypertrophy	1.586932e-02
+thin apical ectodermal ridge	1.435079e-02
+enlarged hair follicles	1.360931e-02
+
+Entries with increased p-value:
+mammalian phenotype	1.153474e-42
+growth/size phenotype	6.709784e-35
+lethality-prenatal/perinatal	6.454946e-31
+abnormal skeleton morphology	9.802305e-30
+skeleton phenotype	5.264527e-29
+abnormal axial skeleton morphology	9.432721e-29
+prenatal lethality	1.694547e-25
+abnormal limbs/digits/tail morphology	1.342007e-24
+abnormal appendicular skeleton morphology	1.227235e-22
+abnormal skeleton extremities morphology	8.046002e-22
+
+Entries with decreased p-value:
+abnormal postnatal growth/weight/body size	4.596081e-21
+lethality-postnatal	8.122186e-19
+postnatal lethality	2.844933e-18
+hematopoietic system phenotype	4.261770e-18
+reproductive system phenotype	7.351803e-18
+immune system phenotype	9.691377e-17
+abnormal hematopoietic system morphology/development	1.148866e-16
+homeostasis/metabolism phenotype	4.916243e-15
+abnormal homeostasis	5.377370e-15
+abnormal hematopoiesis	1.479198e-14
+
