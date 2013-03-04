@@ -2,11 +2,10 @@
 
 import sys
 import re
-#import gzip
+import gzip
 
 def read_wig(filename):
-	f = open(filename, "r")
-	#f = gzip.open(filename, 'r')
+	f = gzip.open(filename, "rb")
 	values = []
 	pos = 0
 	for line in f:
@@ -16,7 +15,6 @@ def read_wig(filename):
 				values += [0] * (start - len(values) - 1)
 		else:
 			values.append(float(line))
-	#f.close()
 	return values
 
 def extract_field(input, fieldname):
@@ -29,7 +27,7 @@ def extract_field(input, fieldname):
 def main():
 	if len(sys.argv) < 2:
 		print "Reads in a wig file"
-		print "Usage: ./readwig.py [input.wigFix]"
+		print "Usage: ./readwig.py [input.wigFix.gz]"
 		exit(1)
 	filename = sys.argv[1]
 	print read_wig(filename)
