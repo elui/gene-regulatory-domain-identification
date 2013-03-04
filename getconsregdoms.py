@@ -48,6 +48,9 @@ def get_genes(loci_filename, chrom):
 	return (forward_genes, backward_genes)
 
 def get_reg_doms(genes, cons_values):
+	upstream_offset = 2000
+	downstream_offset = upstream_offset
+
 	reg_doms = []
 	reg_dom_cur_start = 0
 	for i in range(-1, len(genes)):
@@ -66,6 +69,12 @@ def get_reg_doms(genes, cons_values):
 		# Or end of our data if this is the last gene
 		else:
 			range_end = len(cons_values)
+
+		# include upstream and downstream basepairs if there is room
+		if range_end - range_start > upstream_offset + downstream_offset:
+			range_end = range_end - upstream_offset
+			range_start	= range_start + downstream_offset
+
 		range_cons_values = cons_values[range_start:range_end]
 		reg_dom_cur_end, reg_dom_next_start = get_cut_points(range_cons_values, range_start)
 		if i >= 0:
