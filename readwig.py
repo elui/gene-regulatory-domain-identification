@@ -2,9 +2,11 @@
 
 import sys
 import re
+#import gzip
 
 def read_wig(filename):
 	f = open(filename, "r")
+	#f = gzip.open(filename, 'r')
 	values = []
 	pos = 0
 	for line in f:
@@ -14,6 +16,7 @@ def read_wig(filename):
 				values += [0] * (start - len(values) - 1)
 		else:
 			values.append(float(line))
+	#f.close()
 	return values
 
 def extract_field(input, fieldname):
