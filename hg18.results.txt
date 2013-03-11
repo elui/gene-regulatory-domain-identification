@@ -1,28 +1,155 @@
 GOBiologicalProcess.tsv
 
 Deleted entries:
-smooth muscle contraction	4.806092e-02
-anatomical structure homeostasis	4.791371e-02
-regulation of protein ubiquitination	4.764105e-02
-negative regulation of microtubule polymerization	4.547253e-02
-homeostatic process	4.131801e-02
-response to zinc ion	4.010656e-02
-deoxyribonucleotide biosynthetic process	3.991740e-02
-O-glycan processing, core 3	3.817601e-02
-vascular smooth muscle contraction	3.623609e-02
+uropod organization	4.251519e-09
+blood vessel endothelial cell migration	3.009724e-08
+endothelial cell migration	1.841781e-05
+actin cytoskeleton reorganization	9.224834e-05
+organelle localization	1.589845e-04
+leukocyte migration	5.206557e-04
+actin cytoskeleton organization	6.005928e-04
+tumor necrosis factor-mediated signaling pathway	6.691922e-04
+T cell activation	9.023541e-04
+actin filament-based process	1.232395e-03
+actin filament bundle formation	1.366556e-03
+RNA destabilization	2.345339e-03
+nuclear-transcribed mRNA poly(A) tail shortening	2.345339e-03
+neural fold formation	2.508543e-03
+cytokine-mediated signaling pathway	2.538366e-03
+G1 phase	3.118730e-03
+carnitine transport	3.316929e-03
+rhythmic behavior	3.662370e-03
+mitotic recombination	4.864072e-03
+mRNA catabolic process	5.020304e-03
+muscle maintenance	5.355508e-03
+response to DNA damage stimulus	5.445035e-03
+regulation of T cell receptor signaling pathway	5.573832e-03
+actin filament organization	5.922781e-03
+positive regulation of mismatch repair	7.840219e-03
+regulation of antigen receptor-mediated signaling pathway	8.195278e-03
+hormonal regulation of the force of heart contraction	9.683214e-03
+cellular response to DNA damage stimulus	9.705817e-03
+Golgi vesicle fusion to target membrane	9.971345e-03
+hemopoiesis	1.055884e-02
+cytoskeleton organization	1.138405e-02
+regulation of calcium ion-dependent exocytosis	1.171515e-02
+negative regulation of actin nucleation	1.171729e-02
+phagolysosome formation	1.171729e-02
+histone ubiquitination	1.183651e-02
+regulation of mast cell cytokine production	1.277860e-02
+positive regulation of smooth muscle contraction	1.303320e-02
+regulation of cellular component organization	1.398337e-02
+negative regulation of B cell apoptosis	1.467396e-02
+DNA repair	1.472377e-02
+actin crosslink formation	1.536013e-02
+interphase	1.634376e-02
+dTMP biosynthetic process	1.811641e-02
+intra-Golgi vesicle-mediated transport	1.851125e-02
+RNA metabolic process	1.864114e-02
+negative regulation of T cell receptor signaling pathway	1.909489e-02
+receptor clustering	1.981888e-02
+negative regulation of transcription factor activity	2.119538e-02
+cytotoxic T cell degranulation	2.153432e-02
+protein amino acid deamination	2.213281e-02
+reflex	2.254168e-02
+cellular anion homeostasis	2.297685e-02
+mechanosensory behavior	2.422128e-02
+negative regulation of DNA binding	2.514029e-02
+anatomical structure formation	2.737168e-02
+positive regulation of leukocyte chemotaxis	2.899686e-02
+canalicular bile acid transport	2.923754e-02
+positive regulation of DNA ligation	3.046135e-02
+negative regulation of binding	3.047690e-02
+mRNA metabolic process	3.160567e-02
+interphase of mitotic cell cycle	3.237436e-02
+negative regulation of DNA recombination	3.265336e-02
+anterior neuropore closure	3.539450e-02
 sprouting angiogenesis	3.604419e-02
+vascular smooth muscle contraction	3.623609e-02
+O-glycan processing, core 3	3.817601e-02
+deoxyribonucleotide biosynthetic process	3.991740e-02
+response to zinc ion	4.010656e-02
+homeostatic process	4.131801e-02
+negative regulation of microtubule polymerization	4.547253e-02
+regulation of protein ubiquitination	4.764105e-02
+anatomical structure homeostasis	4.791371e-02
+smooth muscle contraction	4.806092e-02
 
 Inserted entries:
-development of secondary sexual characteristics	2.628662e-03
-regulation of transcription, mitotic	2.516701e-03
+cellular process	7.905145e-218
+regulation of macromolecule biosynthetic process	5.919246e-88
+regulation of cellular biosynthetic process	3.330546e-87
+regulation of biosynthetic process	3.918965e-87
+regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	1.066380e-82
+regulation of transcription, DNA-dependent	1.206015e-81
+regulation of RNA metabolic process	2.274982e-81
+cellular protein metabolic process	1.855337e-66
+protein metabolic process	2.388139e-66
+biopolymer modification	4.635140e-41
+positive regulation of transcription, DNA-dependent	4.773448e-26
+positive regulation of RNA metabolic process	4.898634e-26
+positive regulation of transcription from RNA polymerase II promoter	9.011398e-22
+cell motion	3.836646e-21
+mitotic cell cycle	1.306651e-17
+rhythmic process	5.007302e-15
+interspecies interaction between organisms	3.355607e-14
+response to hormone stimulus	6.328226e-14
+response to endogenous stimulus	1.205970e-13
+posttranscriptional regulation of gene expression	3.667531e-13
+DNA replication	2.591729e-11
+Wnt receptor signaling pathway	4.899446e-11
+regulation of membrane potential	6.542252e-10
+nuclear mRNA splicing, via spliceosome	7.328105e-10
+response to virus	3.657935e-09
+Golgi vesicle transport	6.725849e-09
+response to insulin stimulus	2.753695e-08
+reproductive process in a multicellular organism	3.171308e-08
+trophectodermal cell differentiation	1.034780e-07
+blastocyst formation	1.220034e-07
+cranial nerve development	2.073600e-07
+regulation of translational initiation	3.184335e-07
+nerve development	3.439561e-07
+response to temperature stimulus	3.494428e-07
+regulation of caspase activity	4.647944e-07
+regulation of endopeptidase activity	5.160381e-07
+positive regulation of transcription initiation from RNA polymerase II promoter7.912595e-07
+positive regulation of transcription via serum response element binding	7.912595e-07
+androgen receptor signaling pathway	9.087759e-07
+steroid hormone receptor signaling pathway	3.697538e-06
+rhombomere 3 morphogenesis	4.225365e-06
+facial nerve structural organization	6.146457e-06
+brain segmentation	8.038558e-06
+rhombomere 3 development	9.572783e-06
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1.205674e-05
+lamellipodium assembly	1.715225e-05
+protein amino acid acetylation	2.560092e-05
+protein stabilization	2.806428e-05
+ovarian follicle development	5.166898e-05
+synaptic vesicle transport	6.537154e-05
+regulation of fibroblast proliferation	7.262280e-05
+ribosomal subunit assembly	2.767911e-04
+tyrosyl-tRNA aminoacylation	5.583666e-04
+exit from mitosis	5.980297e-04
+positive regulation of transcription from RNA polymerase II promoter, mitotic	6.297202e-04
+optic nerve development	6.847387e-04
+activation of phospholipase C activity by metabotropic glutamate receptor signaling pathway	7.102056e-04
+formaldehyde metabolic process	7.170096e-04
+activation of JNKK activity	7.183704e-04
+alanyl-tRNA aminoacylation	7.479187e-04
+plasma membrane to endosome transport	8.386966e-04
+lactose biosynthetic process	8.851515e-04
+protein amino acid terminal N-glycosylation	8.861233e-04
+penetration of zona pellucida	9.036162e-04
+RNA interference	9.220806e-04
+positive regulation of apoptosis involved in mammary gland involution	9.351027e-04
+DNA strand elongation during DNA replication	9.543439e-04
+photoperiodism	9.945743e-04
+positive regulation of viral transcription	1.333068e-03
+positive regulation of calcium ion transport via store-operated calcium channel activity	1.369981e-03
 semicircular canal morphogenesis	2.003305e-03
 vestibular reflex	2.003305e-03
-positive regulation of calcium ion transport via store-operated calcium channel activity	1.369981e-03
-positive regulation of viral transcription	1.333068e-03
-photoperiodism	9.945743e-04
-DNA strand elongation during DNA replication	9.543439e-04
-positive regulation of apoptosis involved in mammary gland involution	9.351027e-04
-RNA interference	9.220806e-04
+regulation of transcription, mitotic	2.516701e-03
+development of secondary sexual characteristics	2.628662e-03
 
 Entries with increased p-value:
 entrainment of circadian clock by photoperiod	6.544000e-04
@@ -38,167 +165,3 @@ biopolymer metabolic process	6.461304e-04
 cellular biopolymer metabolic process	6.660495e-04
 translational elongation	6.740978e-04
 positive regulation of protein complex disassembly	8.122660e-04
-
-GOCellularComponent.tsv
-
-Deleted entries:
-replication fork	2.055020e-02
-extracellular vesicular exosome	6.823852e-03
-nuclear body	6.057267e-03
-nuclear periphery	4.955780e-03
-pronucleus	2.363884e-03
-U4/U6 x U5 tri-snRNP complex	2.058831e-03
-actin filament	1.298252e-03
-beta-galactosidase complex	6.050364e-04
-actin filament bundle	3.459770e-04
-stress fiber	2.694495e-04
-
-Inserted entries:
-external encapsulating structure	1.428455e-03
-Golgi trans cisterna	1.358713e-03
-RSF complex	9.246073e-04
-mitochondrial respiratory chain complex IV	8.839853e-04
-zymogen granule membrane	5.144242e-04
-male pronucleus	4.838968e-04
-podosome	3.977538e-04
-RNA-induced silencing complex	3.310511e-04
-trans-Golgi network	2.429198e-05
-recycling endosome	1.494950e-05
-
-Entries with increased p-value:
-NuA4 histone acetyltransferase complex	1.146611e-06
-H4/H2A histone acetyltransferase complex	1.496390e-06
-
-Entries with decreased p-value:
-intracellular	4.085588e-07
-intracellular organelle	9.847578e-07
-organelle	1.013834e-06
-intracellular part	1.318120e-06
-nuclear lumen	2.874918e-05
-intracellular membrane-bounded organelle	3.648404e-05
-membrane-bounded organelle	3.695696e-05
-nucleoplasm	1.067234e-04
-nucleus	2.166606e-04
-cytosol	3.057464e-04
-
-GOMolecularFunction.tsv
-
-Deleted entries:
-potassium:hydrogen antiporter activity	4.879816e-02
-microtubule binding	4.617042e-02
-chondroitin sulfotransferase activity	4.328633e-02
-histone acetyltransferase binding	3.867767e-02
-elongation factor-2 kinase activity	3.795218e-02
-SNARE binding	3.446597e-02
-kinase binding	3.256823e-02
-N-acetylglucosaminylphosphatidylinositol deacetylase activity	3.137499e-02
-histone acetyltransferase regulator activity	2.809029e-02
-tubulin binding	2.780220e-02
-
-Inserted entries:
-lactose synthase activity	1.472940e-03
-protein kinase CK2 regulator activity	1.074253e-03
-procollagen-lysine 5-dioxygenase activity	9.788322e-04
-protein-disulfide reductase activity	9.432657e-04
-alanine-tRNA ligase activity	7.479187e-04
-mitogen-activated protein kinase binding	6.087229e-04
-tyrosine-tRNA ligase activity	5.583666e-04
-protein tag	5.492283e-04
-interleukin-8 receptor binding	4.409235e-04
-poly(A)-specific ribonuclease activity	3.818078e-04
-
-Entries with increased p-value:
-purine-rich negative regulatory element binding	1.669795e-03
-
-Entries with decreased p-value:
-promoter binding	1.159117e-05
-translation factor activity, nucleic acid binding	8.312182e-04
-transcription activator activity	1.832523e-03
-translation regulator activity	2.151057e-03
-RNA polymerase II transcription factor activity	2.326594e-03
-glycine C-acetyltransferase activity	2.821398e-03
-protein dimerization activity	3.745957e-03
-structural constituent of ribosome	4.573940e-03
-protein kinase B binding	5.051391e-03
-transcription factor binding	9.211852e-03
-
-MGIExpressionDetected.tsv
-
-Deleted entries:
-TS17_branchial pouch#	4.549388e-02
-TS22_dermis#	3.955665e-02
-TS24_lip#	3.796987e-02
-TS28_autonomic ganglion	3.795218e-02
-TS22_embryo;skeletal muscle#	3.745973e-02
-TS28_skeleton	3.317438e-02
-TS28_bone	2.890439e-02
-TS22_tongue;skeletal muscle	2.799873e-02
-TS28_smooth muscle	2.724147e-02
-TS21_parietal yolk sac	2.106536e-02
-
-Inserted entries:
-TS24_right lung	4.387535e-03
-TS24_left lung	4.387535e-03
-TS22_main bronchus;epithelium	4.204484e-03
-TS24_left lung;associated mesenchyme	3.961720e-03
-TS24_right lung;associated mesenchyme	3.961720e-03
-TS14_mesenchyme derived from somatopleure	2.799780e-03
-TS12_branchial pouch	2.488757e-03
-TS14_foregut;pharyngeal region;associated mesenchyme	1.889721e-03
-TS23_maturing glomerular tuft	1.248553e-03
-TS23_larynx	1.004875e-03
-
-Entries with increased p-value:
-
-Entries with decreased p-value:
-TS5_embryo	8.527202e-06
-TS5_inner cell mass	1.615024e-05
-Theiler_stage_5	2.518346e-05
-TS28_oocyte	4.056519e-04
-TS4_extraembryonic component	8.132618e-04
-TS4_zona pellucida	8.790584e-04
-TS4_second polar body	8.790584e-04
-TS4_embryo	1.055519e-03
-TS4_compacted morula	1.139867e-03
-TS28_female germ cell	1.304562e-03
-
-MGIPhenotype.tsv
-
-Deleted entries:
-dry skin	4.962826e-02
-abnormal self tolerance	4.881568e-02
-decreased lymphocyte cell number	4.719650e-02
-abnormal stratum corneum lipid matrix formation	4.613917e-02
-impaired stratum corneum desquamation	4.613917e-02
-enlarged corneocyte envelope	4.613917e-02
-decreased NK T cell number	4.455632e-02
-abnormal thymocyte apoptosis	4.439667e-02
-abnormal T cell proliferation	4.426443e-02
-spleen hyperplasia	4.261636e-02
-
-Inserted entries:
-abnormal sulcus ampullaris morphology	4.235285e-03
-abnormal posterior cardinal vein morphology	3.961720e-03
-increased lumbar vertebrae number	3.902618e-03
-absent platelets	2.690555e-03
-decreased oviduct weight	1.847390e-03
-utricular degeneration	1.149456e-03
-accessory spleen	1.092326e-03
-delayed cellular replicative senescence	9.644502e-04
-abnormal white fat cell lipid droplet size	9.191652e-04
-disorganized gastric mucosa	8.898163e-04
-
-Entries with increased p-value:
-
-Entries with decreased p-value:
-abnormal frequency of paradoxical sleep	5.692349e-06
-decreased CD8-positive T cell number	4.811222e-04
-abnormal abducens nerve morphology	5.804888e-04
-decreased thymocyte number	1.564940e-03
-increased tumor incidence	1.962891e-03
-altered tumor susceptibility	4.993598e-03
-small adenohypophysis	5.960731e-03
-abnormal tumor incidence	6.197501e-03
-increased eosinophil cell number	6.448983e-03
-papillary muscle hypoplasia	6.772620e-03
-

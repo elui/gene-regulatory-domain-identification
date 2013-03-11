@@ -1,28 +1,382 @@
 GOBiologicalProcess.tsv
 
 Deleted entries:
-cell-cell signaling	4.841847e-02
-regulation of phosphate metabolic process	4.740459e-02
-embryonic hemopoiesis	4.681973e-02
-post-embryonic development	4.610177e-02
-nucleus organization	4.590465e-02
-regulation of pigmentation during development	4.558780e-02
-regulation of phosphorylation	4.541784e-02
-leukocyte adhesion	4.526419e-02
-negative regulation of phosphate metabolic process	4.519871e-02
+multicellular organismal process	1.223272e-25
+forelimb morphogenesis	3.068557e-15
+embryonic forelimb morphogenesis	1.139521e-13
+embryonic cranial skeleton morphogenesis	7.868434e-11
+hindlimb morphogenesis	3.465773e-09
+negative regulation of cell differentiation	9.126473e-09
+negative regulation of chondrocyte differentiation	1.074606e-08
+positive regulation of cell-cell adhesion	5.454225e-08
+cell fate determination	5.523369e-08
+positive regulation of myoblast differentiation	7.599476e-08
+membrane organization	9.251200e-08
+regulation of cell-cell adhesion	1.046246e-07
+positive regulation of signal transduction	1.416984e-07
+anatomical structure formation	1.653023e-07
+gut morphogenesis	4.902081e-07
+ectodermal gut morphogenesis	5.354848e-07
+regulation of striated muscle development	5.432070e-07
+cell fate specification	6.496737e-07
+regulation of epithelial cell proliferation	7.425367e-07
+positive regulation of smoothened signaling pathway	8.504757e-07
+transmembrane receptor protein serine/threonine kinase signaling pathway	8.900280e-07
+cytoplasm organization	1.056435e-06
+middle ear morphogenesis	1.108815e-06
+digestive tract morphogenesis	1.157625e-06
+positive regulation of developmental process	1.189086e-06
+branching morphogenesis of a tube	1.303323e-06
+anterior/posterior axis specification	1.945013e-06
+positive regulation of cell communication	1.961017e-06
+growth	2.200673e-06
+embryonic hindlimb morphogenesis	2.672507e-06
+metanephros development	4.567646e-06
+blood vessel morphogenesis	5.991253e-06
+kidney development	6.984554e-06
+regulation of skeletal muscle fiber development	7.005366e-06
+cellular protein metabolic process	8.435473e-06
+urogenital system development	9.198374e-06
+blood vessel development	9.333399e-06
+protein metabolic process	9.756545e-06
+regulation of myoblast differentiation	1.013887e-05
+morphogenesis of an epithelial sheet	1.057169e-05
+ear development	1.266846e-05
+homeostasis of number of cells	1.606427e-05
+transforming growth factor beta receptor signaling pathway	1.651146e-05
+vasculature development	1.868975e-05
+positive regulation of alpha-beta T cell differentiation	2.205175e-05
+negative regulation of multicellular organismal process	2.372342e-05
+BMP signaling pathway	2.429701e-05
+body morphogenesis	2.443887e-05
+positive regulation of alpha-beta T cell activation	2.783299e-05
+endochondral bone morphogenesis	2.877012e-05
+regulation of programmed cell death	3.054037e-05
+aging	3.087430e-05
+forebrain development	3.277651e-05
+response to external stimulus	3.473236e-05
+regulation of apoptosis	4.151917e-05
+epithelial cell differentiation	4.370974e-05
+negative regulation of bone mineralization	4.872787e-05
+positive regulation of muscle cell differentiation	4.990257e-05
+biopolymer modification	5.288283e-05
+morphogenesis of a branching structure	6.149424e-05
+ureteric bud development	6.608275e-05
+negative regulation of tissue remodeling	6.645092e-05
+axis specification	6.736187e-05
+negative regulation of striated muscle development	7.182968e-05
+purine ribonucleoside metabolic process	7.221408e-05
+gastrulation with mouth forming second	7.408875e-05
+artery morphogenesis	7.437156e-05
+in utero embryonic development	1.000494e-04
+ventral spinal cord interneuron specification	1.070137e-04
+MAPKKK cascade	1.131733e-04
+bone morphogenesis	1.197710e-04
+regulation of tissue remodeling	1.203593e-04
+regulation of MAP kinase activity	1.405149e-04
+epithelial to mesenchymal transition	1.422183e-04
+vasculogenesis	1.516506e-04
+gut development	2.065531e-04
+regulation of bone remodeling	2.503685e-04
+anti-apoptosis	2.535611e-04
+protein modification process	2.569781e-04
+cell maturation	2.717079e-04
+cerebellar cortex morphogenesis	2.719117e-04
+Wnt receptor signaling pathway, calcium modulating pathway	2.838777e-04
+cell aging	2.955057e-04
+purine ribonucleoside salvage	2.960720e-04
+cell differentiation in spinal cord	3.107620e-04
+protein amino acid sulfation	3.202773e-04
+positive regulation of T cell differentiation	3.329333e-04
+regulation of Rho protein signal transduction	3.551893e-04
+odontogenesis of dentine-containing tooth	3.773779e-04
+gastrulation	3.786626e-04
+intracellular signaling cascade	3.967910e-04
+post-translational protein modification	3.999047e-04
+spinal cord motor neuron cell fate specification	4.037733e-04
+ventral spinal cord development	4.070625e-04
+regulation of alpha-beta T cell differentiation	4.081731e-04
+muscle cell differentiation	4.092153e-04
+positive regulation of lymphocyte differentiation	5.075610e-04
+heart morphogenesis	5.227596e-04
+induction	5.234502e-04
+mesoderm development	5.350214e-04
+regulation of ossification	5.351124e-04
+neuron fate specification	5.954522e-04
+cerebellar cortex development	7.794885e-04
+reproductive process	7.869102e-04
+cell motion	8.263844e-04
+localization	9.031629e-04
+induction of an organ	9.043055e-04
+reproduction	9.369447e-04
+programmed cell death	9.690988e-04
+developmental maturation	9.882170e-04
+mesenchymal cell differentiation	1.177352e-03
+cell death	1.207181e-03
+positive regulation of MAP kinase activity	1.215380e-03
+regulation of hormone metabolic process	1.219942e-03
+odontogenesis	1.279285e-03
+neuron development	1.338453e-03
+positive regulation of Ras protein signal transduction	1.343892e-03
+cell proliferation	1.526437e-03
+negative regulation of programmed cell death	1.526828e-03
+positive regulation of cell adhesion	1.557744e-03
+embryonic genitalia morphogenesis	1.581297e-03
+activation of MAPK activity	1.675208e-03
+intramembranous ossification	1.683210e-03
+angiogenesis	1.686508e-03
+negative chemotaxis	1.702227e-03
+phosphorylation	1.862896e-03
+saliva secretion	1.961758e-03
+regulation of striated muscle contraction	1.977483e-03
+focal adhesion formation	2.085737e-03
+spinal cord development	2.139096e-03
+regulation of small GTPase mediated signal transduction	2.212866e-03
+adult feeding behavior	2.238438e-03
+negative regulation of apoptosis	2.252718e-03
+sulfur metabolic process	2.261696e-03
+neuron fate commitment	2.270419e-03
+axon guidance	2.342128e-03
+positive regulation of osteoblast differentiation	2.397098e-03
+carbohydrate biosynthetic process	2.506019e-03
+phosphate metabolic process	2.640223e-03
+protein amino acid phosphorylation	2.663029e-03
+stress-activated protein kinase signaling pathway	2.699610e-03
+regulation of alpha-beta T cell activation	2.727345e-03
+retinoic acid receptor signaling pathway	2.731467e-03
+regulation of muscle cell differentiation	2.754514e-03
+bleb formation	2.809137e-03
+polarized epithelial cell differentiation	2.842299e-03
+sex differentiation	2.856928e-03
+mesenchymal cell development	2.982986e-03
+negative regulation of protein amino acid autophosphorylation	3.030025e-03
+protein kinase cascade	3.151676e-03
+positive regulation of small GTPase mediated signal transduction	3.431164e-03
+mitochondrial membrane organization	3.512983e-03
+negative regulation of response to nutrient levels	3.638353e-03
+regulation of lymphocyte differentiation	3.823357e-03
+regulation of Wnt receptor signaling pathway	4.308153e-03
+stem cell maintenance	4.409563e-03
+genitalia development	4.423867e-03
+regulation of Ras protein signal transduction	4.607999e-03
+ureteric bud branching	4.658182e-03
+face morphogenesis	4.725978e-03
+thymus development	4.933912e-03
+regulation of osteoblast differentiation	4.937885e-03
+negative regulation of appetite	5.054473e-03
+central nervous system neuron differentiation	5.162800e-03
+regulation of biological quality	5.236949e-03
+cell morphogenesis involved in neuron differentiation	5.463557e-03
+head morphogenesis	5.821928e-03
+Wnt receptor signaling pathway through beta-catenin	5.910412e-03
+inner ear development	6.022982e-03
+regulation of behavior	6.288656e-03
+proteoglycan biosynthetic process	6.585700e-03
+regulation of T cell differentiation	6.597397e-03
+negative regulation of hormone biosynthetic process	6.964637e-03
+paraxial mesoderm morphogenesis	6.999368e-03
+gamete generation	7.270100e-03
+negative regulation of axon extension	7.802208e-03
+negative regulation of signal transduction	8.613944e-03
+cartilage condensation	8.964329e-03
+leukocyte migration	9.186587e-03
+regulation of protein kinase activity	9.204329e-03
+segmentation	9.367426e-03
+embryonic digestive tract morphogenesis	9.642986e-03
+face development	9.653535e-03
+reproductive developmental process	1.038339e-02
+induction of positive chemotaxis	1.085002e-02
+regulation of epithelial to mesenchymal transition	1.098036e-02
+cerebellar cortex formation	1.117302e-02
+establishment or maintenance of epithelial cell apical/basal polarity	1.127920e-02
+tail morphogenesis	1.136749e-02
+regulation of transferase activity	1.142011e-02
+development of primary sexual characteristics	1.164324e-02
+negative regulation of axonogenesis	1.175652e-02
+B cell differentiation	1.194517e-02
+glial cell fate determination	1.253247e-02
+negative regulation of protein amino acid phosphorylation	1.316768e-02
+central nervous system neuron axonogenesis	1.346623e-02
+spinal cord motor neuron differentiation	1.361615e-02
+glycosaminoglycan metabolic process	1.378389e-02
+muscle morphogenesis	1.419593e-02
+bone mineralization	1.443264e-02
+neural tube formation	1.446029e-02
+regulation of transcription from RNA polymerase II promoter involved in ventral spinal cord interneuron specification	1.500313e-02
+neural crest cell development	1.509426e-02
+negative regulation of axon extension involved in axon guidance	1.513320e-02
+cellular localization	1.518141e-02
+cardiac muscle contraction	1.573244e-02
+regulation of kinase activity	1.612040e-02
+regulation of anatomical structure morphogenesis	1.638207e-02
+biomineral formation	1.653785e-02
+cellular carbohydrate biosynthetic process	1.734252e-02
+cerebellar Purkinje cell differentiation	1.759330e-02
+cortical cytoskeleton organization	1.853584e-02
+exocrine system development	1.885458e-02
+embryonic axis specification	1.948652e-02
+organ growth	1.965744e-02
+somitogenesis	2.015350e-02
+negative regulation of cell communication	2.058654e-02
+embryonic epithelial tube formation	2.111386e-02
+regulation of glucose import	2.154867e-02
+establishment of localization in cell	2.280879e-02
+blood circulation	2.518658e-02
+response to drug	2.551229e-02
+regulation of cell morphogenesis involved in differentiation	2.562768e-02
+ephrin receptor signaling pathway	2.667908e-02
+cerebellar Purkinje cell layer development	2.700162e-02
+antral ovarian follicle growth	2.853955e-02
+synaptic transmission, glycinergic	2.857531e-02
+negative regulation of transferase activity	2.891396e-02
+regulation of transforming growth factor beta receptor signaling pathway	2.929426e-02
+central nervous system projection neuron axonogenesis	2.959153e-02
+multicellular organismal aging	2.997805e-02
+substrate-bound cell migration	3.005400e-02
+glial cell fate commitment	3.015508e-02
+heparan sulfate proteoglycan biosynthetic process	3.024017e-02
+dendrite morphogenesis	3.047970e-02
+negative regulation of cell development	3.055106e-02
+negative regulation of catalytic activity	3.161864e-02
+regulation of glucose transport	3.233457e-02
+heparan sulfate proteoglycan metabolic process	3.267310e-02
+ameboidal cell migration	3.288569e-02
+regulation of cell morphogenesis	3.291820e-02
+gonad development	3.376038e-02
+cell projection organization	3.376087e-02
+reproductive structure development	3.425156e-02
+ear morphogenesis	3.585700e-02
+regulation of myeloid cell differentiation	3.664470e-02
+localization within membrane	3.684872e-02
+central nervous system neuron development	3.694625e-02
+formation of primary germ layer	3.846810e-02
+regulation of protein modification process	3.906887e-02
+regulation of protein amino acid phosphorylation	3.907099e-02
+mitochondrion organization	3.919474e-02
+genetic imprinting	3.974856e-02
+positive regulation of protein kinase activity	4.060105e-02
+negative regulation of phosphorylation	4.126096e-02
+neurotransmitter uptake	4.137904e-02
+regulation of MAPKKK cascade	4.316363e-02
+embryonic gut development	4.330333e-02
+chondrocyte development	4.364892e-02
+embryonic pattern specification	4.365859e-02
+neurite development	4.392581e-02
 hemopoietic progenitor cell differentiation	4.467515e-02
+negative regulation of phosphate metabolic process	4.519871e-02
+leukocyte adhesion	4.526419e-02
+regulation of phosphorylation	4.541784e-02
+regulation of pigmentation during development	4.558780e-02
+nucleus organization	4.590465e-02
+post-embryonic development	4.610177e-02
+embryonic hemopoiesis	4.681973e-02
+regulation of phosphate metabolic process	4.740459e-02
+cell-cell signaling	4.841847e-02
 
 Inserted entries:
-regulation of astrocyte differentiation	2.269712e-02
-decidualization	2.118188e-02
-peripheral nervous system neuron differentiation	1.889694e-02
-negative regulation of astrocyte differentiation	1.855786e-02
-membrane budding	1.554620e-02
-midbrain-hindbrain boundary development	1.537366e-02
-peripheral nervous system neuron development	1.459972e-02
-clathrin coat assembly	1.413830e-02
-natural killer cell differentiation	1.389169e-02
+cell adhesion	3.835741e-08
+cellular macromolecular complex assembly	1.167071e-06
+cellular macromolecular complex subunit organization	1.847287e-06
+macromolecular complex assembly	2.822502e-06
+chromosome organization	3.393223e-06
+macromolecular complex subunit organization	4.316421e-06
+floor plate formation	4.913257e-06
+nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	6.565940e-06
+neural plate formation	6.763899e-06
+cellular component assembly	7.956774e-06
+regulation of mRNA stability	8.659262e-06
+lamellipodium assembly	1.054461e-05
+establishment or maintenance of chromatin architecture	1.120560e-05
+placenta development	1.148230e-05
+regulation of RNA stability	2.194126e-05
+endocrine system development	2.305771e-05
+positive regulation of neuron differentiation	2.434369e-05
+spinal cord ventral commissure morphogenesis	2.482722e-05
+trophectodermal cell differentiation	2.625527e-05
+nuclear-transcribed mRNA catabolic process	3.399376e-05
+blastocyst formation	3.872452e-05
+megakaryocyte differentiation	4.155457e-05
+notochord regression	4.941272e-05
+ventral midline development	4.941272e-05
+cellular protein complex assembly	5.785460e-05
+anatomical structure regression	7.132085e-05
+embryonic placenta development	7.685763e-05
+mRNA catabolic process	7.726177e-05
+diencephalon development	7.785511e-05
+RNA catabolic process	7.947680e-05
+regulation of timing of neuron differentiation	8.241952e-05
+protein targeting	1.048599e-04
+smoothened signaling pathway involved in regulation of granule cell precursor cell proliferation	1.110043e-04
+embryonic camera-type eye morphogenesis	1.524786e-04
+notochord morphogenesis	1.740229e-04
+embryonic camera-type eye development	1.768682e-04
+protein complex assembly	1.918008e-04
+female pregnancy	2.097811e-04
+spinal cord dorsal/ventral patterning	2.254341e-04
+blastocyst development	2.302882e-04
+protein import	3.085733e-04
+camera-type eye morphogenesis	3.943128e-04
+cell projection assembly	5.187160e-04
+embryonic eye morphogenesis	5.607783e-04
+protein import into nucleus, docking	7.044873e-04
+nucleocytoplasmic transport	7.282110e-04
+nuclear transport	7.359340e-04
+nucleosome assembly	8.197259e-04
+chromatin assembly	8.357370e-04
+nucleosome organization	8.541654e-04
+vesicle targeting, to, from or within Golgi	9.292637e-04
+Golgi vesicle transport	9.520185e-04
+DNA packaging	1.381098e-03
+protein-DNA complex assembly	1.730076e-03
+nerve-nerve synaptic transmission	2.006455e-03
+positive regulation of respiratory burst during acute inflammatory response	2.298558e-03
+chromatin assembly or disassembly	2.526183e-03
+hippocampus development	2.728312e-03
+determination of left/right symmetry	2.756861e-03
+determination of bilateral symmetry	2.789052e-03
+dopamine uptake	2.809816e-03
+negative regulation of retinoic acid receptor signaling pathway	3.145314e-03
+organelle localization	3.654756e-03
+regulation of ventricular cardiomyocyte membrane depolarization	4.151954e-03
+trochlear nerve development	4.410827e-03
+oculomotor nerve development	4.410827e-03
+hemopoietic stem cell differentiation	4.510754e-03
+negative regulation of neuron differentiation	4.800052e-03
+limbic system development	4.825542e-03
+wound healing, spreading of epidermal cells	5.384275e-03
+macrophage activation during immune response	5.430918e-03
+negative regulation of auditory receptor cell differentiation	5.871869e-03
+intra-Golgi vesicle-mediated transport	6.388655e-03
+negative regulation of S phase of mitotic cell cycle	6.632235e-03
+opsonization	7.197636e-03
+dopamine transport	7.343019e-03
+monocyte differentiation	7.764348e-03
+bone marrow development	7.769246e-03
+regulation of auditory receptor cell differentiation	8.319313e-03
+dentate gyrus development	8.400084e-03
+activation of transmembrane receptor protein tyrosine kinase activity	8.644803e-03
+auditory receptor cell fate determination	8.656222e-03
+histone demethylation	8.808731e-03
+outer ear morphogenesis	9.280791e-03
+midbrain-hindbrain boundary morphogenesis	9.477212e-03
+ventricular septum morphogenesis	9.798249e-03
+fatty acid elongation	9.823504e-03
+ribosomal protein import into nucleus	1.032277e-02
+heart septum morphogenesis	1.047909e-02
+negative regulation of sodium ion transport	1.050677e-02
+regulation of cardiac muscle contraction	1.101057e-02
+auditory receptor cell fate commitment	1.243430e-02
+centrosome localization	1.253668e-02
 pathway-restricted SMAD protein phosphorylation	1.337962e-02
+natural killer cell differentiation	1.389169e-02
+clathrin coat assembly	1.413830e-02
+peripheral nervous system neuron development	1.459972e-02
+midbrain-hindbrain boundary development	1.537366e-02
+membrane budding	1.554620e-02
+negative regulation of astrocyte differentiation	1.855786e-02
+peripheral nervous system neuron differentiation	1.889694e-02
+decidualization	2.118188e-02
+regulation of astrocyte differentiation	2.269712e-02
 
 Entries with increased p-value:
 developmental process	2.009637e-33
@@ -47,188 +401,3 @@ regulation of biological process	5.215792e-29
 regulation of macromolecule metabolic process	6.694680e-29
 cellular biopolymer metabolic process	1.443687e-27
 regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	1.724203e-27
-
-GOCellularComponent.tsv
-
-Deleted entries:
-cell projection part	4.211331e-02
-neuron projection	4.135906e-02
-microvillus membrane	2.824781e-02
-neuron projection membrane	2.474277e-02
-axolemma	2.367661e-02
-apical junction complex	1.910617e-02
-nuclear inner membrane	1.849706e-02
-apicolateral plasma membrane	1.703126e-02
-cell-cell junction	1.564218e-02
-T-tubule	1.135645e-02
-
-Inserted entries:
-female germ cell nucleus	1.873226e-02
-F-actin capping protein complex	1.036673e-02
-zymogen granule	1.010289e-02
-ESC/E(Z) complex	8.538766e-03
-intrinsic to mitochondrial inner membrane	7.563504e-03
-zymogen granule membrane	6.950109e-03
-germinal vesicle	6.760541e-03
-nuclear periphery	2.074365e-03
-chromatin remodeling complex	1.429325e-03
-cell leading edge	1.207435e-03
-
-Entries with increased p-value:
-cytosolic small ribosomal subunit	3.021230e-04
-
-Entries with decreased p-value:
-intracellular	3.074019e-38
-organelle	9.597293e-31
-intracellular organelle	2.440447e-30
-intracellular part	4.646728e-30
-nucleus	2.070297e-25
-membrane-bounded organelle	3.150497e-25
-intracellular membrane-bounded organelle	5.855580e-25
-organelle part	1.940083e-13
-membrane-enclosed lumen	3.080095e-10
-intracellular organelle lumen	3.270518e-09
-
-GOMolecularFunction.tsv
-
-Deleted entries:
-protein kinase activity	4.130913e-02
-carboxypeptidase activity	3.697900e-02
-protein serine/threonine kinase activity	3.485764e-02
-polysaccharide binding	3.363823e-02
-metallocarboxypeptidase activity	3.315855e-02
-metalloexopeptidase activity	3.106742e-02
-phosphotransferase activity, alcohol group as acceptor	2.992552e-02
-pattern binding	2.731603e-02
-glycosaminoglycan binding	2.419589e-02
-fructose 1,6-bisphosphate 1-phosphatase activity	2.251945e-02
-
-Inserted entries:
-clathrin binding	2.193617e-02
-phosphoinositide 3-kinase regulator activity	2.179775e-02
-sodium channel regulator activity	1.316043e-02
-sodium channel inhibitor activity	1.239612e-02
-proline-rich region binding	1.212306e-02
-phosphotransferase activity, carboxyl group as acceptor	1.157348e-02
-thyroid hormone receptor activity	1.030159e-02
-phosphoserine binding	9.902523e-03
-phosphothreonine binding	9.902523e-03
-phosphoglycerate kinase activity	8.329920e-03
-
-Entries with increased p-value:
-transcription repressor activity	2.312021e-07
-GTPase inhibitor activity	4.496760e-04
-extracellular matrix constituent conferring elasticity	2.306882e-03
-
-Entries with decreased p-value:
-DNA binding	1.482624e-31
-nucleic acid binding	6.597987e-30
-transcription regulator activity	2.666787e-28
-binding	1.862685e-25
-transcription factor activity	7.098639e-18
-protein binding	6.894269e-13
-sequence-specific DNA binding	7.310943e-07
-zinc ion binding	1.249994e-06
-transition metal ion binding	1.982384e-05
-cation binding	1.532941e-03
-
-MGIExpressionDetected.tsv
-
-Deleted entries:
-TS20_diencephalon;floor plate	4.959480e-02
-TS17_central nervous system;ganglion;cranial	4.950865e-02
-TS25_alimentary system;oral region	4.905987e-02
-TS23_frontal bone primordium	4.874022e-02
-TS24_tooth#;epithelium#	4.860763e-02
-TS15_hindlimb ridge;ectoderm	4.822866e-02
-TS21_tongue;epithelium	4.810104e-02
-TS28_olfactory tubercle	4.765332e-02
-TS25_intestine#	4.715778e-02
-TS26_lower jaw;tooth	4.680754e-02
-
-Inserted entries:
-TS19_left lung rudiment;lobar bronchus	3.359149e-02
-TS22_main bronchus;epithelium	2.404944e-02
-TS28_vomeronasal organ	2.214779e-02
-TS19_axial skeleton;cervical region;vertebral cartilage condensation;C4	2.113436e-02
-TS19_axial skeleton;cervical region;vertebral cartilage condensation;C2	2.113436e-02
-TS19_axial skeleton;cervical region;vertebral cartilage condensation;C3	2.113436e-02
-TS19_axial skeleton;cervical region;vertebral cartilage condensation;C5	2.113436e-02
-TS23_tarsus	1.937307e-02
-TS20_axial skeleton;cervical region;vertebral cartilage condensation;C2	1.928835e-02
-TS13_embryo;ectoderm;neural ectoderm;neural fold#;neural crest#	1.886869e-02
-
-Entries with increased p-value:
-TS17_embryo	3.064300e-40
-Theiler_stage_17	6.264693e-40
-TS17_organ system	1.751575e-38
-TS22_embryo	1.040353e-37
-Theiler_stage_22	1.512858e-37
-TS21_organ system	2.193321e-36
-TS17_central nervous system	2.817261e-36
-TS17_nervous system	3.097234e-36
-TS20_embryo	1.746043e-30
-TS22_visceral organ	2.523530e-30
-
-Entries with decreased p-value:
-TS21_embryo	2.095764e-36
-Theiler_stage_21	1.104791e-35
-TS28_visceral organ	3.926744e-34
-TS22_organ system	1.064459e-31
-TS28_respiratory system	2.674080e-26
-Theiler_stage_28	8.098177e-26
-TS28_lung	1.517310e-25
-Theiler_stage_5	1.588249e-25
-TS21_telencephalon	1.924153e-25
-TS28_reproductive system	2.407146e-25
-
-MGIPhenotype.tsv
-
-Deleted entries:
-abnormal circulating interleukin-5 level	4.977700e-02
-abnormal suckling behavior	4.901766e-02
-absent testes	4.854673e-02
-joint calcification	4.844762e-02
-abnormal lambdoidal suture morphology	4.837240e-02
-circling	4.815486e-02
-increased circulating potassium level	4.784723e-02
-buphthalmos	4.768464e-02
-thymus cortex hypoplasia	4.587005e-02
-genomic imprinting	4.576868e-02
-
-Inserted entries:
-telencephalon hypoplasia	2.210997e-02
-absent barrels in primary somatosensory cortex	2.028837e-02
-abnormal pituitary infundibular stalk	1.820735e-02
-absent lungs	1.777025e-02
-absent oviduct	1.774600e-02
-abnormal sublingual duct morphology	1.766842e-02
-absent auchene hairs	1.651685e-02
-neuron hypertrophy	1.586932e-02
-thin apical ectodermal ridge	1.435079e-02
-enlarged hair follicles	1.360931e-02
-
-Entries with increased p-value:
-mammalian phenotype	1.153474e-42
-growth/size phenotype	6.709784e-35
-lethality-prenatal/perinatal	6.454946e-31
-abnormal skeleton morphology	9.802305e-30
-skeleton phenotype	5.264527e-29
-abnormal axial skeleton morphology	9.432721e-29
-prenatal lethality	1.694547e-25
-abnormal limbs/digits/tail morphology	1.342007e-24
-abnormal appendicular skeleton morphology	1.227235e-22
-abnormal skeleton extremities morphology	8.046002e-22
-
-Entries with decreased p-value:
-abnormal postnatal growth/weight/body size	4.596081e-21
-lethality-postnatal	8.122186e-19
-postnatal lethality	2.844933e-18
-hematopoietic system phenotype	4.261770e-18
-reproductive system phenotype	7.351803e-18
-immune system phenotype	9.691377e-17
-abnormal hematopoietic system morphology/development	1.148866e-16
-homeostasis/metabolism phenotype	4.916243e-15
-abnormal homeostasis	5.377370e-15
-abnormal hematopoiesis	1.479198e-14
-

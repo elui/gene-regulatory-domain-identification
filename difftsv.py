@@ -18,7 +18,7 @@ def read_tsv(filename):
 def get_difference(entries_1, entries_2):
 	keys = set(entries_1.keys()) - set(entries_2.keys())
 	entries = [(key, entries_1[key]) for key in keys]
-	return sorted(entries, key=operator.itemgetter(1), reverse=True)
+	return sorted(entries, key=operator.itemgetter(1))
 
 def get_increased(entries_1, entries_2):
 	keys = set(entries_1.keys()) & set(entries_2.keys())
@@ -37,16 +37,16 @@ def main():
 	top_k = 10
 	if len(sys.argv) < 3:
 		print "Diffs two TSV files."
-		print "Usage: ./difftsv.py [1.tsv] [2.tsv]"
+		print "Usage: ./difftsv.py [curated.tsv] [cons.tsv]"
 		exit(1)
 	filenames = sys.argv[1:3]
 	tsv_entries = [read_tsv(filename) for filename in filenames]
 	print ""
 	print "Deleted entries:"
-	print_entries(get_difference(tsv_entries[0], tsv_entries[1])[:top_k])
+	print_entries(get_difference(tsv_entries[0], tsv_entries[1]))
 	print ""
 	print "Inserted entries:"
-	print_entries(get_difference(tsv_entries[1], tsv_entries[0])[:top_k])
+	print_entries(get_difference(tsv_entries[1], tsv_entries[0]))
 	print ""
 	print "Entries with increased p-value:"
 	print_entries(get_increased(tsv_entries[0], tsv_entries[1])[:top_k])
