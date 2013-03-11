@@ -32,6 +32,7 @@ def get_genes(loci_filename, chrom):
 	loci_file = open(loci_filename, "r")
 	forward_genes = []
 	backward_genes = []
+	
 	for loci_line in loci_file:
 		tokens = loci_line.split()
 		gene = {}
@@ -40,40 +41,57 @@ def get_genes(loci_filename, chrom):
 		gene["pos"] = int(tokens[2])
 		gene["strand"] = tokens[3]
 		gene["name"] = tokens[4]
+		gene["start"] = int(tokens[5])
+		end["end"] = int(tokens[6])
+
 		if gene["chrom"] == chrom:
 			if gene["strand"] == "+":
 				forward_genes.append(gene)
 			if gene["strand"] == "-":
 				backward_genes.append(gene)
+
 	return (forward_genes, backward_genes)
 
 def get_reg_doms(genes, cons_values):
+	cons_vals_len = len(cons_values)
+
 	upstream_offset = 2000
 	downstream_offset = upstream_offset
 
 	reg_doms = []
 	reg_dom_cur_start = 0
 	for i in range(-1, len(genes)):
+		end1 = 0
+		start2 = cons_vals_len
+
 		# Break if we go out of range
-		if i >= 0 and genes[i]["pos"] > len(cons_values):
+		if i >= 0 and genes[i]["pos"] > cons_vals_len:
 			break
 		# Start of range is site of current gene
 		if i >= 0:
+			end1 = genes[i]["end"]
 			range_start = genes[i]["pos"]
 		# Or start of chromosome if this is before our first gene
 		else:
 			range_start = 0
 		# End of range is site of next gene
-		if i + 1 < len(genes) and genes[i + 1]["pos"] <= len(cons_values):
+		if i + 1 < len(genes) and genes[i + 1]["pos"] <= cons_vals_len:
 			range_end = genes[i + 1]["pos"]
+			start2 = genes[i+1]["start"]
 		# Or end of our data if this is the last gene
 		else:
-			range_end = len(cons_values)
+			range_end = cons_vals_len
 
 		# include upstream and downstream basepairs if there is room
-		if range_end - range_start > upstream_offset + downstream_offset:
-			range_end = range_end - upstream_offset
-			range_start	= range_start + downstream_offset
+		if start1 - upstream_offset > end1 + downstream_offset:
+			range_end = start2 - upstream_offset
+			range_start	= downstream_offset + end1
+		# try adding a smaller offset
+		elif start2 > end1:
+			range_end = start2
+			range_start = end1
+		else:
+			print >> sys.stderr, "Offsets too large"
 
 		range_cons_values = cons_values[range_start:range_end]
 		reg_dom_cur_end, reg_dom_next_start = get_cut_points(range_cons_values, range_start)
