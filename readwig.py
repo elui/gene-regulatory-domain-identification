@@ -3,19 +3,33 @@
 import sys
 import re
 import gzip
+import numpy
 
 def read_wig(filename):
+	
 	f = gzip.open(filename, "rb")
-	values = []
+	maxpos = 0
+	for line in f:
+		if "fixedStep" in line:
+			maxpos = int(extract_field(line, "start"))
+		else:
+			maxpos += 1
+	f.close()
+
+	values = numpy.zeros(maxpos + 1)
+
+	f = gzip.open(filename, "rb")
 	pos = 0
 	for line in f:
 		if "fixedStep" in line:
-			start = int(extract_field(line, "start"))
-			if len(values) <= start:
-				values += [0] * (start - len(values) - 1)
+			pos = int(extract_field(line, "start"))
 		else:
-			values.append(float(line))
+			values[pos] = float(line)
+			pos += 1
+	f.close();
+
 	return values
+
 
 def extract_field(input, fieldname):
 	match = re.search("%s=(\S+)" % fieldname, input)
@@ -30,7 +44,8 @@ def main():
 		print "Usage: ./readwig.py [input.wigFix.gz]"
 		exit(1)
 	filename = sys.argv[1]
-	print read_wig(filename)
+	values = read_wig(filename)
+	print values
 
 if __name__ == "__main__":
 	main()
