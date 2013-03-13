@@ -5,7 +5,11 @@ Tools
  
 **bedlengths.py**: Python library that provides a single function, `readwig`, that converts in a fixed-step Wiggle file into a numpy array.
 
-**getconsregdoms.py**: Command-line tool that produces a BED file of predicted regulatory regions, given a file of gene loci, chromosome number, and a Wiggle file of phastCons / phyloP scores.
+**getconsregdoms.py**: Command-line tool that produces a BED file of predicted regulatory regions, given a file of gene loci, chromosome number, and a Wiggle file of phastCons / phyloP scores. The heuristic for predicting a regulatory region for a gene start site is the following:
+1. Perform a Gaussian filter over the conservation scores. The default sigma for the filter is 50.
+2. Compute basal region to be 5kb upstream and 1kb downstream from the start site.
+3. Extend the start of the basal upstream until the conservation score at the position is smaller than the cutoff. Extend the end of the basal region downstream while the conservation score at the end is greater than the conservation score at the position is smaller than the cutoff. The default cutoff is 0.01.
+4. Compute the extended region. The extended region extends from end of the previous basal region to the start of the next basal region, or 1000kb from the basal region, whichever region is smaller.
 
 **difftsv.py**: Command-line tool that compares all the two GREAT output files in TSV format, and computes new terms, deleted terms, and terms with differing p-value.
 
