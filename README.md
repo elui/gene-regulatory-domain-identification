@@ -29,6 +29,14 @@ Results
 
 **hg18.sigma.100.results.txt**: New terms, deleted terms and terms with differing p-value for hg18 SRF using phastCons with sigma = 100, cutoff = 0.01.
 
+**hg18.no.base.curatedRegDoms**: Predicted regulatory domains for hg18 SRF using phastCons with sigma = 50, cutoff = 0.01, with no base extension
+
+**hg18.no.base.results.txt**: New terms, deleted terms and terms with differing p-value for hg18 SRF using phastCons with sigma = 50, cutoff = 0.01, with no base extension.
+
+**hg18.no.distal.curatedRegDoms**: Predicted regulatory domains for hg18 SRF using phastCons with sigma = 50, cutoff = 0.01, with no distal extension
+
+**hg18.no.distal.results.txt**: New terms, deleted terms and terms with differing p-value for hg18 SRF using phastCons with sigma = 50, cutoff = 0.01, with no distal extension.
+
 **mm9.phastCons.curatedRegDoms**: Predicted regulatory domains for mm9 p300 using phastCons with sigma = 100, cutoff = 0.01.
 
 **mm9.phastCons.results.txt**: New terms, deleted terms and terms with differing p-value for mm9 p300 using phastCons with sigma = 50, cutoff = 0.01.
