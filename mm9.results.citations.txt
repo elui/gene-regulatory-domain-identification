@@ -1,0 +1,31 @@
+P300 in mice is responsible for embryonic limb development (GREAT). This is more specific than previously associated terms like transcription and involvement in organ morphogensis (DAVID).
+
+GOBiologicalProcess.tsv
+
+INSERTED
+death	2.084382e-03
+p300 and CBP: Partners for life and death
+http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4652(199911)181:2%3C218::AID-JCP4%3E3.0.CO;2-5/abstract
+
+apoptosis	7.555405e-03
+Nitric oxide-induced nuclear GAPDH activates p300/CBP and mediates apoptosis
+http://www.nature.com/ncb/journal/v10/n7/abs/ncb1747.html
+p300 binding by E1A cosegregates with p53 induction but is dispensable for apoptosis.
+http://jvi.asm.org/content/71/5/3515.short
+
+leukocyte differentiation	4.839379e-02
+The Biology of 5-Lipoxygenase: Function, Structure, and Regulatory Mechanisms
+http://onlinelibrary.wiley.com/doi/10.1046/j.1525-1381.1999.t01-1-99231.x/full
+
+DECREASED P-VALUE
+regulation of anatomical structure morphogenesis	9.802400e-04
+muscle morphogenesis	8.963000e-05
+osteoblast development	7.441900e-05
+Relationship between alkaline phosphatase levels, osteopontin expression, and mineralization in differentiating MC3T3-E1 osteoblasts
+http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4644(19980201)68:2%3C269::AID-JCB13%3E3.0.CO;2-A/abstract
+
+muscle cell differentiation	5.543470e-05
+Interaction and functional collaboration of p300/CBP and bHLH proteins in muscle and B-cell differentiation.
+http://genesdev.cshlp.org/content/10/19/2478.short
+
+embryonic hindlimb morphogenesis	1.093510e-07

@@ -1,0 +1,95 @@
+For hg18, our metric added these entries relevant to SRF:
+
+Serum response factor (SRF) is a regulator of basic cellular processes, and has also been associated in more biological contexts as being  e.g. a regulator of actin cytoskeleton
+
+Examples of cellular processes include nucleus, protein binding, cytoplasm, transcription, nucleotide binding, metal ion binding, zinc ion binding, rna binding, regulation of transcription, ATP binding (reported by GREAT paper)
+
+Table 3
+GO: cellular component ----> actin cytoskeleton, cortical cytoskeleton
+GO: molecular function ----> actin binding
+
+For SIGMA = 50
+
+GOBiologicalProcess.tsv
+
+INSERTED
+cerebellar Purkinje cell differentiation	8.337102e-03
+SRF binding to SRE 6.9 in the Arc promoter is essential for LTD in cultured Purkinje cells
+http://www.nature.com/neuro/journal/v13/n9/abs/nn.2611.html
+
+T cell differentiation	1.880306e-02
+A trans-activator Tax of human T-cell leukemia virus type 1 binds to NF-kappa B p50 and serum response factor (SRF) and associates with enhancer DNAs of the NF-kappa B site and CArG box.
+http://europepmc.org/abstract/MED/8361755/reload=0;jsessionid=MbynNgLNF1IgJ6z0GU2t.0
+
+DECREASED P-VALUE
+
+Terms associated with regulation of cell processes, such as transcription factor activity, cellular metabolic process, biosynthetic process, and cell cycle process. We also saw a decreased p-value for cytoskeleton organization and actin filament bundle formation, similar to actin cytoskeleton terms cited by GREAT as an enrichment bound by SRF.
+
+---
+
+GOCellularComponent.tsv
+DECREASED P-VALUE
+actin cytoskeleton	6.894300e-10
+actin filament bundle	6.966300e-06
+
+--
+
+GOMolecularFunction.tsv
+INSERTED
+Rac GTPase binding	3.426870e-02
+Diaphanous-Related Formins Bridge Rho GTPase and Src Tyrosine Kinase Signaling
+http://www.sciencedirect.com/science/article/pii/S1097276500803998
+
+DECREASED P-VALUE
+cytoskeletal protein binding	1.963950e-06
+actin binding	2.169700e-06
+translation factor activity, nucleic acid binding	1.663810e-05
+
+
+****
+
+SIGMA = 100
+GOBiologicalProcess.tsv
+INSERTED
+regulation of myeloid cell differentiation	4.054730e-02
+Actin’ together: serum response factor, its cofactors and the link to signal transduction
+http://www.sciencedirect.com/science/article/pii/S0962892406002698
+
+DECREASED P-VALUE
+cytoskeleton organization	7.916747e-03
+actin filament-based process	7.149580e-04
+actin cytoskeleton organization	3.612086e-04
+actin filament organization	2.656830e-04
+actin filament bundle formation	5.562900e-05
+actin cytoskeleton reorganization	3.887700e-07
+
+Serum response factor is crucial for actin cytoskeletal organization and focal adhesion assembly in embryonic stem cells
+http://jcb.rupress.org/content/156/4/737.abstract
+
+GOCellularComponent.tsv
+INSERTED
+cytosolic part	2.442724e-03
+cytoskeleton	2.306921e-02
+Actin’ together: serum response factor, its cofactors and the link to signal transduction
+http://www.sciencedirect.com/science/article/pii/S0962892406002698
+Serum response factor: master regulator of the actin cytoskeleton and contractile apparatus
+http://ajpcell.physiology.org/content/292/1/C70.short
+
+DECREASED P-VALUE
+actin cytoskeleton	1.575502e-08
+cortical cytoskeleton	2.141270e-07
+actin filament bundle	2.388430e-05
+
+GOMolecularFunction.tsv
+INSERTED
+beta-tubulin binding	3.618171e-03
+Serum response factor binding sites differ in three human cell types
+"We observed SRF binding at promoters of genes encoding additional cytoskeletal proteins such as myosin 1e (MYO1E) and beta tubulin (TUBB)."
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781345/
+
+DECREASED P-VALUE
+actin binding	6.355431e-05
+cytoskeletal protein binding	6.185576e-05
+translation factor activity, nucleic acid binding	4.399730e-05
+actin filament binding	2.431550e-07
+
