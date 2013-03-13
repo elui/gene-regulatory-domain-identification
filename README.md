@@ -36,3 +36,10 @@ Results
 **mm9.phyloP.curatedRegDoms**: Predicted regulatory domains for mm9 p300 using phastCons with sigma = 100, cutoff = 0.01.
 
 **mm9.phyloP.results.txt**: New terms, deleted terms and terms with differing p-value for mm9 p300 using phyloP with sigma = 50, cutoff = 0.01.
+
+Curated Results
+---------------
+
+**hg18.results.citations.txt: Citations of academic research which draws connection between hg18 + phastCons terms and SRF
+
+**mm9.results.citations.txt: Citations of academic research which draws connection between mm9 + phastCons terms and p300
