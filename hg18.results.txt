@@ -1,0 +1,167 @@
+GOBiologicalProcess.tsv
+
+Deleted entries:
+uropod organization	4.251519e-09
+blood vessel endothelial cell migration	3.009724e-08
+endothelial cell migration	1.841781e-05
+actin cytoskeleton reorganization	9.224834e-05
+organelle localization	1.589845e-04
+leukocyte migration	5.206557e-04
+actin cytoskeleton organization	6.005928e-04
+tumor necrosis factor-mediated signaling pathway	6.691922e-04
+T cell activation	9.023541e-04
+actin filament-based process	1.232395e-03
+actin filament bundle formation	1.366556e-03
+RNA destabilization	2.345339e-03
+nuclear-transcribed mRNA poly(A) tail shortening	2.345339e-03
+neural fold formation	2.508543e-03
+cytokine-mediated signaling pathway	2.538366e-03
+G1 phase	3.118730e-03
+carnitine transport	3.316929e-03
+rhythmic behavior	3.662370e-03
+mitotic recombination	4.864072e-03
+mRNA catabolic process	5.020304e-03
+muscle maintenance	5.355508e-03
+response to DNA damage stimulus	5.445035e-03
+regulation of T cell receptor signaling pathway	5.573832e-03
+actin filament organization	5.922781e-03
+positive regulation of mismatch repair	7.840219e-03
+regulation of antigen receptor-mediated signaling pathway	8.195278e-03
+hormonal regulation of the force of heart contraction	9.683214e-03
+cellular response to DNA damage stimulus	9.705817e-03
+Golgi vesicle fusion to target membrane	9.971345e-03
+hemopoiesis	1.055884e-02
+cytoskeleton organization	1.138405e-02
+regulation of calcium ion-dependent exocytosis	1.171515e-02
+negative regulation of actin nucleation	1.171729e-02
+phagolysosome formation	1.171729e-02
+histone ubiquitination	1.183651e-02
+regulation of mast cell cytokine production	1.277860e-02
+positive regulation of smooth muscle contraction	1.303320e-02
+regulation of cellular component organization	1.398337e-02
+negative regulation of B cell apoptosis	1.467396e-02
+DNA repair	1.472377e-02
+actin crosslink formation	1.536013e-02
+interphase	1.634376e-02
+dTMP biosynthetic process	1.811641e-02
+intra-Golgi vesicle-mediated transport	1.851125e-02
+RNA metabolic process	1.864114e-02
+negative regulation of T cell receptor signaling pathway	1.909489e-02
+receptor clustering	1.981888e-02
+negative regulation of transcription factor activity	2.119538e-02
+cytotoxic T cell degranulation	2.153432e-02
+protein amino acid deamination	2.213281e-02
+reflex	2.254168e-02
+cellular anion homeostasis	2.297685e-02
+mechanosensory behavior	2.422128e-02
+negative regulation of DNA binding	2.514029e-02
+anatomical structure formation	2.737168e-02
+positive regulation of leukocyte chemotaxis	2.899686e-02
+canalicular bile acid transport	2.923754e-02
+positive regulation of DNA ligation	3.046135e-02
+negative regulation of binding	3.047690e-02
+mRNA metabolic process	3.160567e-02
+interphase of mitotic cell cycle	3.237436e-02
+negative regulation of DNA recombination	3.265336e-02
+anterior neuropore closure	3.539450e-02
+sprouting angiogenesis	3.604419e-02
+vascular smooth muscle contraction	3.623609e-02
+O-glycan processing, core 3	3.817601e-02
+deoxyribonucleotide biosynthetic process	3.991740e-02
+response to zinc ion	4.010656e-02
+homeostatic process	4.131801e-02
+negative regulation of microtubule polymerization	4.547253e-02
+regulation of protein ubiquitination	4.764105e-02
+anatomical structure homeostasis	4.791371e-02
+smooth muscle contraction	4.806092e-02
+
+Inserted entries:
+cellular process	7.905145e-218
+regulation of macromolecule biosynthetic process	5.919246e-88
+regulation of cellular biosynthetic process	3.330546e-87
+regulation of biosynthetic process	3.918965e-87
+regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	1.066380e-82
+regulation of transcription, DNA-dependent	1.206015e-81
+regulation of RNA metabolic process	2.274982e-81
+cellular protein metabolic process	1.855337e-66
+protein metabolic process	2.388139e-66
+biopolymer modification	4.635140e-41
+positive regulation of transcription, DNA-dependent	4.773448e-26
+positive regulation of RNA metabolic process	4.898634e-26
+positive regulation of transcription from RNA polymerase II promoter	9.011398e-22
+cell motion	3.836646e-21
+mitotic cell cycle	1.306651e-17
+rhythmic process	5.007302e-15
+interspecies interaction between organisms	3.355607e-14
+response to hormone stimulus	6.328226e-14
+response to endogenous stimulus	1.205970e-13
+posttranscriptional regulation of gene expression	3.667531e-13
+DNA replication	2.591729e-11
+Wnt receptor signaling pathway	4.899446e-11
+regulation of membrane potential	6.542252e-10
+nuclear mRNA splicing, via spliceosome	7.328105e-10
+response to virus	3.657935e-09
+Golgi vesicle transport	6.725849e-09
+response to insulin stimulus	2.753695e-08
+reproductive process in a multicellular organism	3.171308e-08
+trophectodermal cell differentiation	1.034780e-07
+blastocyst formation	1.220034e-07
+cranial nerve development	2.073600e-07
+regulation of translational initiation	3.184335e-07
+nerve development	3.439561e-07
+response to temperature stimulus	3.494428e-07
+regulation of caspase activity	4.647944e-07
+regulation of endopeptidase activity	5.160381e-07
+positive regulation of transcription initiation from RNA polymerase II promoter7.912595e-07
+positive regulation of transcription via serum response element binding	7.912595e-07
+androgen receptor signaling pathway	9.087759e-07
+steroid hormone receptor signaling pathway	3.697538e-06
+rhombomere 3 morphogenesis	4.225365e-06
+facial nerve structural organization	6.146457e-06
+brain segmentation	8.038558e-06
+rhombomere 3 development	9.572783e-06
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1.205674e-05
+lamellipodium assembly	1.715225e-05
+protein amino acid acetylation	2.560092e-05
+protein stabilization	2.806428e-05
+ovarian follicle development	5.166898e-05
+synaptic vesicle transport	6.537154e-05
+regulation of fibroblast proliferation	7.262280e-05
+ribosomal subunit assembly	2.767911e-04
+tyrosyl-tRNA aminoacylation	5.583666e-04
+exit from mitosis	5.980297e-04
+positive regulation of transcription from RNA polymerase II promoter, mitotic	6.297202e-04
+optic nerve development	6.847387e-04
+activation of phospholipase C activity by metabotropic glutamate receptor signaling pathway	7.102056e-04
+formaldehyde metabolic process	7.170096e-04
+activation of JNKK activity	7.183704e-04
+alanyl-tRNA aminoacylation	7.479187e-04
+plasma membrane to endosome transport	8.386966e-04
+lactose biosynthetic process	8.851515e-04
+protein amino acid terminal N-glycosylation	8.861233e-04
+penetration of zona pellucida	9.036162e-04
+RNA interference	9.220806e-04
+positive regulation of apoptosis involved in mammary gland involution	9.351027e-04
+DNA strand elongation during DNA replication	9.543439e-04
+photoperiodism	9.945743e-04
+positive regulation of viral transcription	1.333068e-03
+positive regulation of calcium ion transport via store-operated calcium channel activity	1.369981e-03
+semicircular canal morphogenesis	2.003305e-03
+vestibular reflex	2.003305e-03
+regulation of transcription, mitotic	2.516701e-03
+development of secondary sexual characteristics	2.628662e-03
+
+Entries with increased p-value:
+entrainment of circadian clock by photoperiod	6.544000e-04
+
+Entries with decreased p-value:
+angiogenesis involved in wound healing	3.796243e-05
+cell migration during sprouting angiogenesis	1.856068e-04
+nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	2.707927e-04
+macromolecule metabolic process	4.656863e-04
+cellular macromolecule metabolic process	4.900693e-04
+cellular response to stimulus	6.145673e-04
+biopolymer metabolic process	6.461304e-04
+cellular biopolymer metabolic process	6.660495e-04
+translational elongation	6.740978e-04
+positive regulation of protein complex disassembly	8.122660e-04

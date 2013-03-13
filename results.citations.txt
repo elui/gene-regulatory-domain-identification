@@ -1,0 +1,60 @@
+For hg18, our metric added these entries:
+cranial nerve development	2.073600e-07
+Nav2 is necessary for cranial nerve development and blood pressure regulation.
+http://www.ncbi.nlm.nih.gov/pubmed/20184720
+
+rhombomere 3 development	9.572783e-06
+Hoxa1 lineage tracing indicates a direct role for Hoxa1 in the development of the inner ear, the heart, and the third rhombomere.
+http://www.ncbi.nlm.nih.gov/pubmed/20171203
+
+ovarian follicle development	5.166898e-05
+Oocyte-derived R-spondin2 promotes ovarian follicle development.
+http://www.ncbi.nlm.nih.gov/pubmed/23407710
+
+optic nerve development	6.847387e-04
+[Development of the human eye].
+http://www.ncbi.nlm.nih.gov/pubmed/22932837
+
+lactose biosynthetic process	8.851515e-04
+Beta1,4-galactosyltransferase and lactose biosynthesis: recruitment of a housekeeping gene from the nonmammalian vertebrate gene pool for a mammary gland specific function.
+http://www.ncbi.nlm.nih.gov/pubmed/10819517
+
+
+For mm9, our metric added these entries:
+
+floor plate formation	4.913257e-06
+
+neural plate formation	6.763899e-06
+Transcriptional regulatory networks in epiblast cells and during anterior neural plate development as modeled in epiblast stem cells.
+http://www.ncbi.nlm.nih.gov/pubmed/22992956
+
+ventral midline development	4.941272e-05
+Vertebrate intersectin1 is repurposed to facilitate cortical midline connectivity and higher order cognition.
+http://www.ncbi.nlm.nih.gov/pubmed/23447614
+
+embryonic placenta development	7.685763e-05
+Embryonic stem cell-derived trophoblast differentiation: a comparative review of the biology, function, and signaling mechanisms.
+http://www.ncbi.nlm.nih.gov/pubmed/23291503
+
+female pregnancy	2.097811e-04
+
+hippocampus development	2.728312e-03
+Effects of olive polyphenols administration on nerve growth factor and brain-derived neurotrophic factor in the mouse brain.
+http://www.ncbi.nlm.nih.gov/pubmed/23466052
+
+dopamine uptake	2.809816e-03
+Pathway-specific dopaminergic deficits in a mouse model of Angelman syndrome.
+http://www.ncbi.nlm.nih.gov/pubmed/23143301
+
+trochlear nerve development	4.410827e-03
+oculomotor nerve development	4.410827e-03
+Distribution of protocadherin 9 protein in the developing mouse nervous system.
+http://www.ncbi.nlm.nih.gov/pubmed/22982106
+
+outer ear morphogenesis	9.280791e-03
+Role of Hoxa2 in mouse external ear morphogenesis: a model to decipher human craniofacial genetic disorders.
+http://www.ncbi.nlm.nih.gov/pubmed/22750704
+
+midbrain-hindbrain boundary morphogenesis	9.477212e-03
+Fate mapping of the mouse midbrain-hindbrain constriction using a site-specific recombination system.
+http://www.ncbi.nlm.nih.gov/pubmed/9635195

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+CHROMS=( "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15" "16" "17" "18" "19" "X" "Y" )
+
+numChroms=${#CHROMS[@]}
+
+user="" # need to have @ symbol
+path="~/Documents/cs173"
+gzPath="phastCons30way/"
+locifile="ontologies/mm9/mm9.new.loci"
+
+echo "zombie az">tmp2
+
+for (( i=1; i<=${numChroms}; i++ ));
+do
+    serverNum=$i
+    while test "${#serverNum}" -lt 2; do serverNum="0$serverNum"; done
+
+    chromI=$(($i - 1))
+
+    echo "screen ${i} ssh ${user}corn${serverNum} cd${path}; python getconsregdoms.py $locifile chr${CHROMS[$chromI]} ${gzPath}chr${CHROMS[$chromI]}.placental.pp.data.gz > tmp/mm9/chr${CHROMS[$chromI]}.regDoms.bed" >> tmp2
+
+done
+
+screen -c tmp2
+rm tmp2
