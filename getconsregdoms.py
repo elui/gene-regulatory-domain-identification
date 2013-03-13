@@ -42,7 +42,7 @@ def get_genes(loci_filename, chrom):
 		gene["strand"] = tokens[3]
 		gene["name"] = tokens[4]
 		gene["start"] = int(tokens[5])
-		end["end"] = int(tokens[6])
+		gene["end"] = int(tokens[6])
 
 		if gene["chrom"] == chrom:
 			if gene["strand"] == "+":
