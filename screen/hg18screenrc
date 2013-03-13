@@ -4,7 +4,7 @@ CHROMS=( "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15" "16" 
 
 numChroms=${#CHROMS[@]}
 
-user=""
+user="" # need to have @
 path="~/Documents/cs173"
 gzPath="phastCons28way/"
 locifile="ontologies/hg18/hg18.new.loci"
@@ -18,7 +18,7 @@ do
 
     chromI=$(($i - 1))
 
-    echo "screen ${i} ssh ${user}@corn${serverNum} cd${path}; python getconsregdoms.py $locifile chr${CHROMS[$chromI]} ${gzPath}chr${CHROMS[$chromI]}.pp.gz > tmp/hg18/chr${CHROMS[$chromI]}.regDoms.bed" >> tmp
+    echo "screen ${i} ssh ${user}corn${serverNum} cd${path}; python getconsregdoms.py $locifile chr${CHROMS[$chromI]} ${gzPath}chr${CHROMS[$chromI]}.pp.gz > tmp/hg18/chr${CHROMS[$chromI]}.regDoms.bed" >> tmp
 
 done
 
