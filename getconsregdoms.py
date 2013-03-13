@@ -83,7 +83,7 @@ def get_reg_doms(genes, cons_values):
 			range_end = cons_vals_len
 
 		# include upstream and downstream basepairs if there is room
-		if start1 - upstream_offset > end1 + downstream_offset:
+		if start2 - upstream_offset > end1 + downstream_offset:
 			range_end = start2 - upstream_offset
 			range_start	= downstream_offset + end1
 		# try adding a smaller offset
