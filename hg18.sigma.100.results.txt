@@ -1,0 +1,495 @@
+GOBiologicalProcess.tsv
+
+Deleted entries:
+mRNA metabolic process	3.160567e-02
+biosynthetic process	3.427174e-02
+cellular biosynthetic process	3.991588e-02
+homeostatic process	4.131801e-02
+transcription	4.714053e-02
+regulation of transcription	4.879222e-02
+
+Inserted entries:
+establishment of organelle localization	2.768736e-04
+mitochondrion localization	3.127116e-03
+mitochondrion transport along microtubule	1.169838e-02
+primary neural tube formation	1.426887e-02
+T cell differentiation	1.832870e-02
+organelle organization	3.988308e-02
+regulation of myeloid cell differentiation	4.054730e-02
+neural tube formation	4.719718e-02
+positive regulation of cellular process	4.836110e-02
+embryonic epithelial tube formation	4.877652e-02
+neural tube closure	4.985476e-02
+
+Entries with increased p-value:
+metabolic process	1.497644e-02
+regulation of protein stability	9.255510e-03
+primary metabolic process	8.531120e-03
+regulation of cellular component organization	6.325460e-03
+cellular metabolic process	5.573630e-03
+gene expression	2.210946e-03
+macromolecule biosynthetic process	2.148800e-03
+cellular macromolecule biosynthetic process	1.878573e-03
+anatomical structure formation	1.455620e-03
+anterior neuropore closure	1.173880e-03
+cellular biopolymer biosynthetic process	1.146689e-03
+actin crosslink formation	1.030800e-03
+cellular biopolymer metabolic process	6.677035e-04
+biopolymer metabolic process	6.479516e-04
+cellular macromolecule metabolic process	2.501060e-04
+macromolecule metabolic process	2.374563e-04
+protein amino acid deamination	1.664500e-04
+neural fold formation	8.990000e-05
+cellular anion homeostasis	8.871000e-05
+receptor clustering	7.794000e-05
+hydroxylysine biosynthetic process	3.509400e-05
+sprouting angiogenesis	3.100000e-05
+endothelial cell migration	2.877053e-05
+negative regulation of microtubule polymerization	2.321000e-05
+entrainment of circadian clock by photoperiod	9.527300e-07
+
+Entries with decreased p-value:
+RNA metabolic process	1.098485e-02
+regulation of cellular metabolic process	8.189480e-03
+cytoskeleton organization	7.916747e-03
+nuclear-transcribed mRNA catabolic process	5.141793e-03
+mRNA catabolic process	4.826605e-03
+regulation of metabolic process	3.323772e-03
+regulation of transcription from RNA polymerase II promoter	2.526104e-03
+nuclear-transcribed mRNA poly(A) tail shortening	2.345327e-03
+RNA destabilization	2.345327e-03
+positive regulation of biosynthetic process	1.575330e-03
+cell cycle process	1.435190e-03
+regulation of macromolecule metabolic process	1.412812e-03
+positive regulation of cellular biosynthetic process	1.353460e-03
+regulation of gene expression	1.315080e-03
+positive regulation of mismatch repair	1.144863e-03
+canalicular bile acid transport	1.039670e-03
+positive regulation of macromolecule biosynthetic process	1.005880e-03
+positive regulation of DNA ligation	9.762400e-04
+dTMP biosynthetic process	8.496500e-04
+regulation of protein ubiquitination	8.457600e-04
+DNA repair	7.606800e-04
+interphase of mitotic cell cycle	7.336000e-04
+actin filament-based process	7.149580e-04
+anatomical structure homeostasis	7.005800e-04
+vascular smooth muscle contraction	6.717600e-04
+positive regulation of epithelial cell proliferation involved in wound healing	6.590400e-04
+regulation of acrosome reaction	6.590400e-04
+smooth muscle contraction	6.170700e-04
+formaldehyde biosynthetic process	6.097500e-04
+histone H3-K9 demethylation	6.097500e-04
+mature ribosome assembly	5.735400e-04
+histone modification	5.720800e-04
+deoxyribonucleotide biosynthetic process	5.616800e-04
+cellular response to DNA damage stimulus	5.572830e-04
+ribosome assembly	5.541900e-04
+positive regulation of transcription	4.951390e-04
+intra-Golgi vesicle-mediated transport	4.646400e-04
+DNA integration	4.551200e-04
+hemopoiesis	4.514200e-04
+response to zinc ion	4.302000e-04
+positive regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	4.298200e-04
+O-glycan processing, core 3	4.224400e-04
+interphase	4.197400e-04
+positive regulation of microtubule depolymerization	3.989800e-04
+positive regulation of cellular metabolic process	3.737190e-04
+actin cytoskeleton organization	3.612086e-04
+mechanosensory behavior	3.583800e-04
+negative regulation of B cell apoptosis	3.484600e-04
+response to DNA damage stimulus	3.251850e-04
+positive regulation of gene expression	3.169480e-04
+covalent chromatin modification	2.748630e-04
+positive regulation of metabolic process	2.725190e-04
+actin filament organization	2.656830e-04
+mitotic recombination	2.068200e-04
+negative regulation of DNA recombination	1.998100e-04
+positive regulation of leukocyte chemotaxis	1.823700e-04
+nucleotide-excision repair, DNA gap filling	1.703340e-04
+carnitine transport	1.634330e-04
+regulation of antigen receptor-mediated signaling pathway	1.538270e-04
+regulation of mast cell cytokine production	1.444700e-04
+retrograde vesicle-mediated transport, Golgi to ER	1.418040e-04
+negative regulation of T cell receptor signaling pathway	1.369800e-04
+positive regulation of macromolecule metabolic process	1.297290e-04
+cellular response to stress	1.286030e-04
+G1 phase	1.269930e-04
+organelle localization	1.250224e-04
+translation	1.218290e-04
+regulation of T cell receptor signaling pathway	1.204530e-04
+cilium axoneme assembly	1.123000e-04
+regulation of calcium ion-dependent exocytosis	1.035500e-04
+positive regulation of smooth muscle contraction	9.672000e-05
+negative regulation of binding	9.661000e-05
+cytotoxic T cell degranulation	9.576000e-05
+muscle maintenance	9.310200e-05
+histone ubiquitination	8.800000e-05
+DNA metabolic process	7.057560e-05
+rhythmic behavior	6.987400e-05
+cytokine-mediated signaling pathway	6.856800e-05
+negative regulation of DNA binding	6.368000e-05
+actin filament bundle formation	5.562900e-05
+cellular response to stimulus	5.165030e-05
+hormonal regulation of the force of heart contraction	5.009700e-05
+positive regulation of protein complex disassembly	4.755700e-05
+rhombomere 3 formation	4.748000e-05
+rhombomere 5 formation	4.748000e-05
+T cell activation	4.624500e-05
+nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	4.457530e-05
+negative regulation of transcription factor activity	4.441000e-05
+negative regulation of actin nucleation	3.749000e-05
+phagolysosome formation	3.749000e-05
+translational elongation	2.769450e-05
+reflex	2.433000e-05
+leukocyte migration	1.723600e-05
+cell migration during sprouting angiogenesis	1.458920e-05
+tumor necrosis factor-mediated signaling pathway	5.076600e-06
+angiogenesis involved in wound healing	3.340110e-06
+actin cytoskeleton reorganization	3.887700e-07
+blood vessel endothelial cell migration	2.147930e-09
+uropod organization	7.183200e-11
+
+GOCellularComponent.tsv
+
+Deleted entries:
+
+Inserted entries:
+cytosolic part	2.442724e-03
+macromolecular complex	6.422502e-03
+cytoskeleton	2.306921e-02
+
+Entries with increased p-value:
+protein kinase CK2 complex	1.274656e-03
+U4/U6 x U5 tri-snRNP complex	4.043100e-04
+nuclear part	2.895055e-04
+beta-galactosidase complex	9.400070e-05
+intracellular	3.753150e-07
+
+Entries with decreased p-value:
+intracellular non-membrane-bounded organelle	2.079034e-03
+nucleoplasm part	7.272110e-04
+organelle part	7.186930e-04
+glycocalyx	6.590400e-04
+intracellular organelle part	5.863510e-04
+katanin complex	3.989800e-04
+membrane-enclosed lumen	3.977980e-04
+organelle lumen	3.377840e-04
+nuclear body	2.841900e-04
+cytosol	2.731503e-04
+extracellular vesicular exosome	1.872420e-04
+nucleus	1.542363e-04
+cytosolic ribosome	1.481810e-04
+nuclear periphery	1.436300e-04
+intracellular organelle lumen	1.227589e-04
+large ribosomal subunit	1.058190e-04
+PML body	1.051510e-04
+pronucleus	9.611600e-05
+ribonucleoprotein complex	6.723740e-05
+cell leading edge	4.642700e-05
+actin filament	4.342400e-05
+snRNP U2	3.290500e-05
+actin filament bundle	2.388430e-05
+replication fork	2.283000e-05
+stress fiber	1.754500e-05
+cell cortex	1.477650e-05
+nucleoplasm	1.286223e-05
+cytosolic large ribosomal subunit	1.163630e-05
+membrane-bounded organelle	1.015591e-05
+intracellular membrane-bounded organelle	1.004160e-05
+cell cortex part	4.966310e-06
+nuclear lumen	4.007020e-06
+ruffle	3.398340e-06
+immunological synapse	7.255900e-07
+organelle	5.891941e-07
+intracellular organelle	5.727181e-07
+intracellular part	4.371395e-07
+cortical cytoskeleton	2.141270e-07
+actin cytoskeleton	1.575502e-08
+H4/H2A histone acetyltransferase complex	6.463200e-10
+NuA4 histone acetyltransferase complex	2.554990e-10
+
+GOMolecularFunction.tsv
+
+Deleted entries:
+ribonucleoprotein binding	1.466606e-03
+mannosyl-oligosaccharide glucosidase activity	2.399099e-03
+ribosome binding	4.164677e-03
+protein transmembrane transporter activity	2.214206e-02
+
+Inserted entries:
+beta-tubulin binding	3.618171e-03
+
+Entries with increased p-value:
+transcription regulator activity	6.879720e-03
+enzyme binding	2.467837e-03
+GTP-Ral binding	1.030800e-03
+Fc-gamma receptor I complex binding	1.030800e-03
+Ral guanyl-nucleotide exchange factor activity	5.581980e-04
+N-acylglucosamine 2-epimerase activity	3.708750e-04
+galactosidase activity	2.407790e-04
+N-acetylglucosaminylphosphatidylinositol deacetylase activity	2.276200e-04
+beta-galactosidase activity	1.824870e-04
+glycine C-acetyltransferase activity	1.477850e-04
+thyroid hormone receptor activity	9.330000e-05
+
+Entries with decreased p-value:
+microtubule binding	3.069026e-02
+tubulin binding	1.789962e-02
+nucleic acid binding	5.566220e-03
+protein channel activity	4.311740e-03
+transcription factor binding	3.827164e-03
+oxoglutarate:malate antiporter activity	2.266508e-03
+transcription coactivator activity	1.056600e-03
+thymidylate synthase activity	8.496500e-04
+protein homodimerization activity	7.765700e-04
+potassium:hydrogen antiporter activity	7.318400e-04
+kinase binding	5.061300e-04
+chondroitin sulfotransferase activity	4.109600e-04
+fructose-2,6-bisphosphate 2-phosphatase activity	3.770400e-04
+transcription cofactor activity	3.629000e-04
+SNARE binding	3.600600e-04
+GTPase inhibitor activity	2.641140e-04
+MAP kinase tyrosine/serine/threonine phosphatase activity	2.602200e-04
+structural constituent of ribosome	2.490570e-04
+protein dimerization activity	2.415010e-04
+NADPH dehydrogenase (quinone) activity	2.215700e-04
+dihydronicotinamide riboside quinone reductase activity	2.215700e-04
+protein kinase B binding	2.083130e-04
+histone acetyltransferase binding	1.993200e-04
+elongation factor-2 kinase activity	1.901800e-04
+histone acetyltransferase regulator activity	1.703800e-04
+RNA polymerase II transcription factor activity	1.332650e-04
+translation regulator activity	1.232940e-04
+diuretic hormone activity	1.012800e-04
+identical protein binding	9.938400e-05
+myosin V binding	9.576000e-05
+transcription activator activity	8.558600e-05
+beta-N-acetylgalactosaminidase activity	7.952000e-05
+actin binding	6.355431e-05
+cytoskeletal protein binding	6.185576e-05
+translation factor activity, nucleic acid binding	4.399730e-05
+purine-rich negative regulatory element binding	5.337000e-06
+promoter binding	5.406900e-07
+actin filament binding	2.431550e-07
+
+MGIExpressionDetected.tsv
+
+Deleted entries:
+TS28_optic chiasma	1.809253e-02
+
+Inserted entries:
+
+Entries with increased p-value:
+TS22_central nervous system;ganglion;cranial;glossopharyngeal IX	1.647200e-04
+Theiler_stage_5	1.242269e-05
+TS5_inner cell mass	1.062560e-05
+TS5_embryo	5.695468e-06
+TS19_occipital myotome	5.940130e-07
+
+Entries with decreased p-value:
+Theiler_stage_2	2.009353e-02
+TS22_embryo;skeletal muscle#	1.903196e-02
+TS3_4-cell stage	5.239847e-03
+Theiler_stage_3	3.495275e-03
+TS22_forelimb;skin#;epidermis#	3.245871e-03
+TS3_8-cell stage	2.618945e-03
+TS3_4-8 cell stage	2.588754e-03
+TS28_skeleton	1.778000e-03
+TS3_second polar body	1.650551e-03
+TS28_bone	1.516810e-03
+TS3_zona pellucida	1.512398e-03
+TS4_inner cell mass	1.021850e-03
+TS28_female germ cell	7.940998e-04
+TS21_parietal yolk sac	6.184000e-04
+TS21_visceral yolk sac;visceral endoderm	6.184000e-04
+TS28_bone marrow	5.690140e-04
+TS4_compacted morula	5.070312e-04
+TS28_olfactory bulb subependymal zone	4.856420e-04
+TS24_basal ganglia	4.856420e-04
+TS28_smooth muscle	4.191300e-04
+TS17_brain ventricle	3.835090e-04
+TS22_tongue;skeletal muscle	3.628300e-04
+TS28_oocyte	2.649735e-04
+TS22_main bronchus;vascular element	2.440500e-04
+TS28_lateral ventricle	2.161900e-04
+TS28_autonomic ganglion	1.901800e-04
+TS5_trophectoderm	1.441660e-04
+TS5_extraembryonic component	1.414870e-04
+TS24_lip#	1.198800e-04
+Theiler_stage_4	1.182850e-04
+TS4_embryo	9.422980e-05
+TS22_dermis#	7.969000e-05
+TS22_pancreas;epithelium	7.773300e-05
+TS4_extraembryonic component	7.366900e-05
+TS4_second polar body	7.066050e-05
+TS4_zona pellucida	7.066050e-05
+TS21_mammary gland;epithelium	2.713700e-05
+
+MGIPhenotype.tsv
+
+Deleted entries:
+abnormal cell death	2.843531e-02
+abnormal cell physiology	2.880532e-02
+decreased leukocyte cell number	3.867837e-02
+decreased blood cell number	4.164334e-02
+decreased lymphocyte cell number	4.719650e-02
+
+Inserted entries:
+abnormal thymus morphology	1.490674e-02
+abnormal thymus size	1.503216e-02
+abnormal immune tolerance	1.824830e-02
+abnormal myeloid leukocyte morphology	2.143233e-02
+abnormal lymph node morphology	3.063879e-02
+abnormal adipose tissue amount	3.252434e-02
+thymus hypoplasia	3.495571e-02
+increased autoantibody level	3.684411e-02
+abnormal skeleton physiology	3.696825e-02
+abnormal phagocyte morphology	3.891899e-02
+abnormal myelopoiesis	4.053016e-02
+small thymus	4.231851e-02
+abnormal thymus cellularity	4.563321e-02
+
+Entries with increased p-value:
+decreased CD4-positive T cell number	1.876138e-02
+decreased T cell number	1.396386e-02
+decreased single-positive T cell number	1.142424e-02
+abnormal cell cycle	1.054891e-02
+abnormal T cell activation	1.043216e-02
+embryonic lethality before somite formation	6.550180e-03
+decreased double-positive T cell number	3.260368e-03
+abnormal double-positive T cell morphology	3.084325e-03
+abnormal uterus morphology	2.589990e-03
+abnormal long bone epiphysis morphology	2.488606e-03
+abnormal B cell morphology	6.943800e-04
+decreased CD8-positive T cell number	6.767648e-04
+abnormal T cell number	3.484600e-04
+increased lymphocyte cell number	3.300000e-04
+increased circulating interleukin-4 level	2.122410e-04
+abnormal circulating interleukin-18 level	1.761300e-04
+uterus prolapse	1.664500e-04
+abnormal oropharyngeal lymphoid tissue morphology	1.283200e-04
+abnormal circulating interleukin-5 level	1.057400e-04
+abnormal tumor incidence	9.963800e-05
+increased circulating interleukin-5 level	6.802000e-05
+increased tumor incidence	4.711600e-05
+abnormal bone marrow cell morphology/development	4.319509e-05
+decreased cochlear hair cell stereocilia number	4.305000e-05
+altered tumor susceptibility	3.932700e-05
+mammary gland tumor	3.689084e-05
+decreased outer hair cell stereocilia number	3.535000e-05
+abnormal T cell morphology	2.994100e-05
+dry skin	1.593000e-05
+abnormal lymphopoiesis	8.955000e-06
+abnormal mononuclear leukocyte differentiation	4.282000e-06
+
+Entries with decreased p-value:
+spleen hyperplasia	3.560710e-02
+abnormal self tolerance	3.363324e-02
+absent subcutaneous adipose tissue	3.109190e-02
+autoimmune response	2.910361e-02
+abnormal granulocyte morphology	2.704797e-02
+abnormal spleen cellularity	2.543567e-02
+abnormal lymph organ cellularity	2.434548e-02
+abnormal neutrophil morphology	1.916613e-02
+abnormal immune system organ morphology	1.739865e-02
+abnormal lymph organ size	1.610973e-02
+increased neutrophil cell number	1.030445e-02
+abnormal spleen morphology	9.895865e-03
+hematopoietic system phenotype	9.616949e-03
+abnormal immune system morphology	9.118368e-03
+increased granulocyte number	7.836509e-03
+abnormal hematopoietic system morphology/development	4.149249e-03
+abnormal innate immunity	3.290906e-03
+abnormal antigen presenting cell physiology	2.884291e-03
+increased leukocyte cell number	2.006488e-03
+intestinal/bowel diverticulum	1.700560e-03
+impaired contractility of jejunal smooth muscle	1.700560e-03
+abnormal macrophage physiology	1.599255e-03
+abnormal T cell proliferation	1.535920e-03
+abnormal stratum corneum lipid matrix formation	1.527600e-03
+impaired stratum corneum desquamation	1.527600e-03
+enlarged corneocyte envelope	1.527600e-03
+abnormal phagocyte physiology	1.484837e-03
+abnormal CD4-positive T cell number	1.406220e-03
+increased apoptosis	1.389470e-03
+abnormal B cell activation	1.385570e-03
+abnormal CD4-positive T cell morphology	1.379900e-03
+abnormal smooth muscle morphology	1.257210e-03
+abnormal single-positive T cell number	1.118320e-03
+abnormal effector T cell morphology	1.068630e-03
+abnormal adaptive immunity	1.048632e-03
+abnormal apoptosis	9.787400e-04
+abnormal leukocyte cell number	9.636862e-04
+abnormal cell-mediated immunity	9.611120e-04
+abnormal immune cell physiology	9.028460e-04
+abnormal T-helper 1 cell differentiation	8.607800e-04
+abnormal immune system cell morphology	8.144174e-04
+abnormal leukocyte physiology	7.868500e-04
+decreased NK T cell number	7.231200e-04
+papillary muscle hypoplasia	7.061570e-04
+abnormal leukocyte morphology	6.640210e-04
+abnormal CD8-positive T cell morphology	6.355800e-04
+increased anti-nuclear antigen antibody level	6.192300e-04
+increased white fat cell lipid droplet size	6.097500e-04
+abnormal NK T cell number	5.682700e-04
+abnormal leukopoiesis	5.638712e-04
+abnormal hematopoiesis	5.167602e-04
+absent epidermis stratum basale	5.075600e-04
+increased circulating interleukin-13 level	4.989300e-04
+abnormal CD8-positive T cell number	4.769600e-04
+decreased T cell apoptosis	4.746800e-04
+abnormal blood cell morphology/development	4.714679e-04
+increased T cell number	4.385500e-04
+liver degeneration	4.040770e-04
+absent corpus luteum	3.936700e-04
+abnormal thymocyte apoptosis	3.850700e-04
+abnormal adenohypophysis morphology	3.831700e-04
+abnormal nucleus morphology	3.604100e-04
+abnormal ovarian follicle number	3.600500e-04
+abnormal growth hormone level	3.168900e-04
+abnormal T cell physiology	3.078250e-04
+increased eosinophil cell number	3.074910e-04
+hypersensitivity	2.880900e-04
+abnormal leukocyte rolling	2.619900e-04
+abnormal temporal memory	2.551600e-04
+increased thymocyte number	2.466620e-04
+abnormal chorionic plate morphology	2.414000e-04
+abnormal hematopoietic stem cell morphology	2.221100e-04
+decreased luteinizing hormone level	2.166500e-04
+arrested T cell differentiation	1.995510e-04
+abnormal seminiferous tubule size	1.931900e-04
+abnormal T cell apoptosis	1.868580e-04
+altered tumor morphology	1.530570e-04
+small seminiferous tubules	1.489840e-04
+abnormal lymphocyte physiology	1.322950e-04
+abnormal T cell differentiation	1.206510e-04
+decreased growth hormone level	1.001980e-04
+abnormal Harderian gland pigmentation	9.576000e-05
+abnormal melanosome transport	9.576000e-05
+decreased uterus weight	9.543000e-05
+decreased circulating VLDL triglyceride level	9.374000e-05
+mesocardia	9.331500e-05
+aortic dissection	8.987300e-05
+decreased mature ovarian follicle number	8.536100e-05
+small adenohypophysis	8.360600e-05
+decreased susceptibility to induced arthritis	8.285000e-05
+decreased thymocyte number	8.102500e-05
+abnormal splenocyte number	7.973000e-05
+increased circulating interleukin-18 level	7.648000e-05
+thin skin	6.498600e-05
+abnormal lymphocyte cell number	5.977100e-05
+preaxial polydactyly	4.512000e-05
+abnormal mononuclear leukocyte morphology	3.962520e-05
+abnormal object recognition memory	2.947590e-05
+absent dermal adipose tissue	2.713700e-05
+absent mesencephalic trigeminal nucleus	2.713700e-05
+abnormal splenocyte morphology	2.536200e-05
+saccular degeneration	1.765000e-05
+abnormal abducens nerve morphology	1.245670e-05
+abnormal lymphocyte morphology	1.084110e-05
+abnormal long term object recognition memory	6.855200e-06
+abnormal cell differentiation	3.017300e-06
+abnormal myeloblast morphology/development	2.510900e-06
+blepharoptosis	2.106700e-06
+abnormal frequency of paradoxical sleep	2.097800e-07
+
